@@ -6,6 +6,21 @@
 |**Land cover**|**BTCDD**|2021|5281|256×256|**_**|**_**|
 |**Land cover**|**TZ-CD**|2023|1|30307×40620|1m|**_**|
 |**Building**|**ABCD**|2017|16950|128×128|0.4m|[link](https://github.com/gistairc/ABCDdataset)|
+|**Building**|**CDD Dataset**|2018|16000|256×256|0.03m-1m|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
+|**Building**|**WHU Building CD**|2019|1|32507×15354|0.2m|[link](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)|
+|**Building**|**LEVIR-CD**|2020|637|1024×1024|0.5m|[link](https://justchenhao.github.io/LEVIR/)|
+|**Building**|**LEVIR-CD+**|2020|1970|1024×1024|0.5m|[link](https://github.com/S2Looking/Dataset)|
+|**Building**|**CD_Data_GZ**|2020|19|1006×1168   4936×5224|0.55m|[link](https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery)|
+|**Building**|**DSIFN Dataset**|2020|3940|512×512|**_**|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
+|**Building**|**SYSU-CD**|2021|20000|256×256|0.5m|[link](https://github.com/liumency/SYSU-CD)|
+|**Building**|**LEVIR-CC**|2022|10077|1024×1024|0.5m|[link](https://github.com/Chen-Yang-Liu/RSICC)|
+|**Building**|**SI-BU dataset**|2023|4932|512×512|0.2m|[link](https://github.com/liaochengcsu/BCE-Net)|
+|**Building**|**EGY-BCD**|2023|6091|256×256|0.25m|[link](https://github.com/oshholail/EGY-BCD)|
+|**Building**|**HRCUS-CD**|2023|11388|256×256|0.5m|[link](https://github.com/zjd1836/AERNet)|
+|**Building**|**TUE-CD**|2024|1656|256×256|1.8m|[link](https://github.com/RSMagneto/MSI-Net)|
+|**Riverway**|**The River Data Set**|2019|1|463×241|30m|[link](https://share.weiyun.com/5xdge4R)|
+|**Cropland**|**CLCD**|2022|600|512×512|0.5m-2m|[link](https://github.com/liumency/CropLand-CD)|
+|**Mine**|**MineNetCD**|2024|71711|256×256|1.2m|[link](https://huggingface.co/datasets/ericyu/MineNetCD256)|
 
 
 
@@ -17,12 +32,7 @@
 
 
 
-|**-**|**Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding**|CVPRW2021|[Paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Stojnic_Self-Supervised_Learning_of_Remote_Sensing_Scene_Representations_Using_Contrastive_Multiview_CVPRW_2021_paper.html)|[link](https://github.com/vladan-stojnic/CMC-RSSR)|
-|**GASSL**|**Geography-Aware Self-Supervised Learning**|ICCV2021|[GASSL](https://openaccess.thecvf.com/content/ICCV2021/html/Ayush_Geography-Aware_Self-Supervised_Learning_ICCV_2021_paper.html)|[link](https://github.com/sustainlab-group/geography-aware-ssl)|
-|**SeCo**|**Seasonal Contrast: Unsupervised Pre-Training From Uncurated Remote Sensing Data**|ICCV2021|[SeCo](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html)|[link](https://github.com/ServiceNow/seasonal-contrast)|
-|**DINO-MM**|**Self-supervised Vision Transformers for Joint SAR-optical Representation Learning**|IGARSS2022|[DINO-MM](https://arxiv.org/abs/2204.05381)|[link](https://github.com/zhu-xlab/DINO-MM)|
 
-
-## BCD contest data set for optical remote sensing images
+## BCD contest dataset for optical remote sensing images
 |Event|Event|Year|Track|Image Pairs|Image size|Resolution|Event link|
 
