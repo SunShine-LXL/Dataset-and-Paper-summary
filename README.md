@@ -1,7 +1,7 @@
 ## BCD datasets of optical remote sensing images 
 |Target of interest|datasets|Year|Image Pairs|Image size|Resolution|Webline|
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-|**Land cover**|**AICD**|2011|1000|800×600|0.5m|**_**|
+|**Land cover**|AICD|2011|1000|800×600|0.5m|**_**|
 |**Land cover**|**ZY3**|2017|1|458×559|5.8m|[link](http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/)|
 |**Land cover**|**BTCDD**|2021|5281|256×256|**_**|**_**|
 |**Land cover**|**TZ-CD**|2023|1|30307×40620|1m|**_**|
