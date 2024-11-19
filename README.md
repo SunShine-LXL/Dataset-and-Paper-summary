@@ -5,9 +5,7 @@
 |**Land cover**|**ZY3**|2017|1|458×559|5.8m|[link](http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/)|
 |**Land cover**|**BTCDD**|2021|5281|256×256|**_**|**_**|
 |**Land cover**|**TZ-CD**|2023|1|30307×40620|1m|**_**|
-|**Building**|**ABCD**|2017|16950|128×128|0.4m|[link](https://github.com/gistairc/ABCDdataset/
-
-)|
+|**Building**|**ABCD**|2017|16950|128×128|0.4m|[link](https://github.com/gistairc/ABCDdataset)|
 
 
 
