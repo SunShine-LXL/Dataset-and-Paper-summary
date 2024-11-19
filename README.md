@@ -61,7 +61,6 @@
 |**Land cover**|**"Guofeng East Eye Cup" remote sensing image intelligent processing algorithm competition**|2023|**Object level change detection**|6000+|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/)|
 |**Land cover**|**"Jilin-1" Cup Satellite Remote Sensing Application Youth Innovation and Entrepreneurship Compe-tition**|2023|**Cultivated land change detection based on high-resolution satellite images**|8000|256×256|<0.75m|[link](https://www.jl1mall.com/contest/match)|
 |**Land cover**|**2024 "Jilin-1" Cup Satel-lite Remote Sensing Application Youth Innovation and Entrepreneurship Competition**|2024|**High resolution remote sensing image total element change detection**|5000|512×512|<0.75m|[link](https://www.jl1mall.com/contest/matchMenu)|
-
 |**Building**|**xView2 Challenge**|2019|**Building Damage Assessment**|11034|1024×1024|<0.8m|[link](https://xview2.org/dataset)|
 |**Building**|**"Tianzhi Cup" artificial intelligence challenge**|2021|**Visible light image building intelligent change detection**|5000|1024×1024|0.5m-0.7m|[link](https://rsaicp.com/portal/contestList)|
 |**Building**|**"Remote Sensing Image Intelligent Interpretation Technology Challenge**|2021|**Building change detection in remote sensing images**|10000|512×512|**_**|[link](https://captain-whu.github.io/PRCV2021_RS/tasks.html)|
