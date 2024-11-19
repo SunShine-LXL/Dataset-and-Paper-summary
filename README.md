@@ -5,11 +5,6 @@
 |**Land cover**|**ZY3**|2017|1|458×559|5.8m|[link](http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/)|
 |**Land cover**|**BTCDD**|2021|5281|256×256|**_**|**_**|
 |**Land cover**|**TZ-CD**|2023|1|30307×40620|1m|**_**|
-|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
-|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
-|Target of interest|datasets|Year|Image Pairs|Image size|Resolution|Webline|
-|:---:|---|:---:|:---:|:---:|:---:|:---:|
 |**Building**|**ABCD**|2017|16950|128×128|0.4m|[link](https://github.com/gistairc/ABCDdataset)|
 |**Building**|**CDD Dataset**|2018|16000|256×256|0.03m-1m|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
 |**Building**|**WHU Building CD**|2019|1|32507×15354|0.2m|[link](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)|
@@ -27,17 +22,12 @@
 |**Cropland**|**CLCD**|2022|600|512×512|0.5m-2m|[link](https://github.com/liumency/CropLand-CD)|
 |**Mine**|**MineNetCD**|2024|71711|256×256|1.2m|[link](https://huggingface.co/datasets/ericyu/MineNetCD256)|
 
-
-
-
-
-
-
-
-
-
-
-
 ## BCD contest dataset for optical remote sensing images
-|Event|Event|Year|Track|Image Pairs|Image size|Resolution|Event link|
+|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
+|**Land cover**|**Artificial Intelligence Remote sensing Interpretation Competition**|2020|**change detection**|4662|512×512|0.5-3m|[link](https://rs.sensetime.com/)|
+|**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Develop-ment Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
+|**Land cover**|**"Shengteng Cup" remote sensing image intelligent processing algorithm competition**|2021|**Remote sensing image change detection**|4194|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/subject_two_2021)|
+|**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpreta-tion Competition**|2021|**Building survey and change detec-tion in high reso-lution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
 
