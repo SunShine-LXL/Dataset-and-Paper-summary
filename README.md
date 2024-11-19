@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**AICD**|2011|1000|800×600|0.5m|[AICD](https://ieeexplore.ieee.org/document/6050150)|**_**|
 |**Land cover**|**ZY3**|2017|1|458×559|5.8m|[ZY3](https://doi.org/10.1109/TGRS.2020.2981051)|[link](http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/)|
-|**Land cover**|**BTCDD**|2021|5281|256×256|**_**|**_**|
+|**Land cover**|**BTCDD**|2021|5281|256×256|**_**|[BTCDD](https://doi.org/10.1016/j.jag.2021.102597)|**_**|
 |**Land cover**|**TZ-CD**|2023|1|30307×40620|1m|**_**|
 |**Building**|**ABCD**|2017|16950|128×128|0.4m|[link](https://github.com/gistairc/ABCDdataset)|
 |**Building**|**CDD Dataset**|2018|16000|256×256|0.03m-1m|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
