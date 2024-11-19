@@ -10,7 +10,7 @@
 |**Building**|**WHU Building CD**|2019|1|32507×15354|0.2m|[link](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)|
 |**Building**|**LEVIR-CD**|2020|637|1024×1024|0.5m|[link](https://justchenhao.github.io/LEVIR/)|
 |**Building**|**LEVIR-CD+**|2020|1970|1024×1024|0.5m|[link](https://github.com/S2Looking/Dataset)|
-|**Building**|**CD_Data_GZ**|2020|19|1006×1168-   4936×5224|0.55m|[link](https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery)|
+|**Building**|**CD_Data_GZ**|2020|19|1006×1168-4936×5224|0.55m|[link](https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery)|
 |**Building**|**DSIFN Dataset**|2020|3940|512×512|**_**|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
 |**Building**|**SYSU-CD**|2021|20000|256×256|0.5m|[link](https://github.com/liumency/SYSU-CD)|
 |**Building**|**LEVIR-CC**|2022|10077|1024×1024|0.5m|[link](https://github.com/Chen-Yang-Liu/RSICC)|
@@ -44,14 +44,14 @@
 |**Land cover**|**Landsat-SCD**|2022|8468|416×416|30m|[link](https://figshare.com/articles/figure/Landsat-SCD_dataset_zip/19946135/1)|
 |**Land cover**|**ChangNet**|2023|31000|1900×1200|0.3m|[link](https://github.com/jankyee/ChangNet)|
 |**Land cover**|**CNAM-CD**|2023|2503|512×512|0.5m|[link](https://github.com/Silvestezhou/CNAM-CD)|
-|**Land cover**|**WUSU dataset**|2023|3|6358×6382   7025×5500|1m|[link](http://rsidea.whu.edu.cn/resource_wusu_sharing.htm)|
+|**Land cover**|**WUSU dataset**|2023|3|6358×6382/7025×5500|1m|[link](http://rsidea.whu.edu.cn/resource_wusu_sharing.htm)|
 |**Land cover**|**Hi-CNA dataset**|2024|6797|512×512|0.8m|[link](http://rsidea.whu.edu.cn/Hi-CNA_dataset.htm)|
 |**Land cover**|**CropSCD**|2024|4141|512×512|0.5m-2m|[link](https://github.com/lsmlyn/CropSCD)|
-|**Building**|**QFabric**|2021|2520|120×120-   12000×12000|0.31m-0.7m|[link](https://sagarverma.github.io/qfabric)|
+|**Building**|**QFabric**|2021|2520|120×120-12000×12000|0.31m-0.7m|[link](https://sagarverma.github.io/qfabric)|
 |**Building**|**S2Looking**|2021|5000|1024×1024|0.5m-0.8m|[link](https://github.com/S2Looking/Dataset)|
 |**Building**|**NanjingDataset**|2022|2519|256×256|0.3m|[link](https://github.com/SianGIS/NanjingDataset)|
 |**Building**|**BANDON**|2023|2283|2048×2048|0.6m|[link](https://github.com/fitzpchao/BANDON)|
-|**Landslide**|**GVLM**|2023|17|1748×1748-   10808×7424|0.59m|[link](https://sagarverma.github.io/qfabric)|
+|**Landslide**|**GVLM**|2023|17|1748×1748-10808×7424|0.59m|[link](https://sagarverma.github.io/qfabric)|
 
 ## BCD contest dataset for optical remote sensing images
 |Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
