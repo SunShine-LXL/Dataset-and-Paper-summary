@@ -109,9 +109,9 @@
 |Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
 |**BiFA**|**Bifa: Remote sensing image change detection with bitemporal feature alignment**|TGRS2024|[BiFA](https://doi.org/10.1109/TGRS.2024.3376673)|[link](https://github.com/zmoka-zht/BiFA)|
-|**Changemamba**|**Changemamba: Remote sensing change detection with spatio-temporal state space model**|ArXiv2024|[Changemamba](https://doi.org/10.48550/arXiv.2404.03425)|[link](https://github.com/ChenHongruixuan/MambaCD)|
 |**CDMamba**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|ArXiv2024|[CDMamba](https://doi.org/10.48550/arXiv.2406.04207)|[link](https://github.com/zmoka-zht/CDMamba)|
 |**CDMask**|**Rethinking Remote Sensing Change Detection With A Mask View**|ArXiv2024|[CDMask](https://doi.org/10.48550/arXiv.2406.15320)|[link](https://github.com/xwmaxwma/rschange)|
+|**Changemamba**|**Changemamba: Remote sensing change detection with spatio-temporal state space model**|ArXiv2024|[Changemamba](https://doi.org/10.48550/arXiv.2404.03425)|[link](https://github.com/ChenHongruixuan/MambaCD)|
 |**MaskCD**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|ArXiv2024|[MaskCD](https://doi.org/10.48550/arXiv.2404.12081)|[link](https://github.com/AI4RS/MaskCD)|
 |**M-CD**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|ArXiv2024|[M-CD](https://doi.org/10.48550/arXiv.2407.06839)|[link](https://github.com/JayParanjape/M-CD)|
 |**SBA-PN**|**Siamese Bi-Attention Pooling Network for Change Detection in Remote Sensing**|JSTARS2024|[SBA-PN](https://doi.org/10.1109/JSTARS.2024.3373753)|**_**|
