@@ -154,31 +154,28 @@
 ## Semi-supervised label efficient learning IB-DLCD method
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|**GDCN**|**Adversarial learning**|****|****|[GDCN]()|[link]()|
-|**SemiCDNet**|**Adversarial learning**|****|****|[SemiCDNet]()|[link]()|
-|**SaDL**|**Consistency constraints**|****|****|[SaDL]()|[link]()|
-|**SemiCD**|**Consistency constraints**|****|****|[SemiCD]()|[link]()|
-|**C2F-SemiCD**|**Consistency constraints**|****|****|[C2F-SemiCD]()|[link]()|
-|**Semi-LCD**|**Consistency constraints**|****|****|[Semi-LCD]()|[link]()|
-|**FPA**|**Consistency constraints**|****|****|[FPA]()|[link]()|
-|**ST-RCL**|**Pseudo-label learning**|****|****|[ST-RCL]()|[link]()|
-|**SemiSANet**|**Pseudo-label learning**|****|****|[SemiSANet]()|[link]()|
-|**STCRNet**|**Pseudo-label learning**|****|****|[STCRNet]()|[link]()|
-|**RCL**|**Pseudo-label learning**|****|****|[RCL]()|[link]()|
-|**DCSS**|**Pseudo-label learning**|****|****|[DCSS]()|[link]()|
-|**IAug_CDNet**|**Pseudo-label learning**|****|****|[IAug_CDNet]()|[link]()|
-|**SemiBuildingChange**|**Pseudo-label learning**|****|****|[SemiBuildingChange]()|[link]()|
-|**SSCD**|**Pseudo-label learning**|****|****|[SSCD]()|[link]()|
-|**ECPS**|**Pseudo-label learning**|****|****|[ECPS]()|[link]()|
-
+|**GDCN**|**Adversarial learning**|**A generative discriminatory classified network for change detection in multispectral imagery**|JSTARS2019|[GDCN](https://doi.org/10.1109/JSTARS.2018.2887108)|**_**|
+|**SemiCDNet**|**Adversarial learning**|**SemiCDNet: A semisupervised convolutional neural network for change detection in high resolution remote-sensing images**|TGRS2020|[SemiCDNet](https://doi.org/10.1109/TGRS.2020.3011913)|**_**|
+|**SaDL**|**Consistency constraints**|**Semantic-aware dense representation learning for remote sensing image change detection**|TGRS2022|[SaDL](https://doi.org/10.1109/TGRS.2022.3203769)|[link](https://github.com/justchenhao/SaDL_CD)|
+|**SemiCD**|**Consistency constraints**|**Revisiting consistency regularization for semi-supervised change detection in remote sensing images**|ArXiv2022|[SemiCD](https://doi.org/10.48550/arXiv.2204.08454)|[link](https://github.com/wgcban/SemiCD)|
+|**C2F-SemiCD**|**Consistency constraints**|**C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote-Sensing Images**|TGRS2024|[C2F-SemiCD](https://doi.org/10.1109/TGRS.2024.3370568)|[link](https://github.com/ChengxiHAN/C2F-SemiCD-and-C2FNet)|
+|**Semi-LCD**|**Consistency constraints**|**Consistency-guided lightweight network for semi-supervised binary change detection of buildings in remote sensing images**|GRS2023|[Semi-LCD](https://doi.org/10.1080/15481603.2023.2257980)|**_**|
+|**FPA**|**Consistency constraints**|**Semisupervised Change Detection With Feature-Prediction Alignment**|TGRS2023|[FPA](https://doi.org/10.1109/TGRS.2023.3247605)|[link](https://github.com/zxt9/FPA-SSCD)|
+|**ST-RCL**|**Pseudo-label learning**|**Joint Self-training and Rebalanced Consistency Learning for Semi-supervised Change Detection**|TGRS2023|[ST-RCL](https://doi.org/10.1109/TGRS.2023.3314452)|**_**|
+|**SemiSANet**|**Pseudo-label learning**|**SemiSANet: A semi-supervised high-resolution remote sensing image change detection model using Siamese networks with graph attention**|RS2022|[SemiSANet](https://doi.org/10.3390/rs14122801)|**_**|
+|**STCRNet**|**Pseudo-label learning**|**STCRNet: A Semi-Supervised Network Based on Self-Training and Consistency Regularization for Change Detection in VHR Remote Sensing Images**|JSTARS2023|[STCRNet](https://doi.org/10.1109/JSTARS.2023.3345017)|[link](https://github.com/WangLukang/STCRNet)|
+|**RCL**|**Pseudo-label learning**|**Reliable contrastive learning for semi-supervised change detection in remote sensing images**|TGRS2022|[RCL](https://doi.org/10.1109/TGRS.2022.3228016)|[link](https://github.com/VCISwang/RC-Change-Detection)|
+|**DCSS**|**Pseudo-label learning**|**Dynamically updated semi-supervised change detection network combining cross-supervision and screening algorithms**|TGRS2024|[DCSS](https://doi.org/10.1109/TGRS.2024.3369059)|**_**|
+|**IAug_CDNet**|**Pseudo-label learning**|**Adversarial instance augmentation for building change detection in remote sensing images**|TGRS2021|[IAug_CDNet](https://doi.org/10.1109/TGRS.2021.3066802)|[link](https://github.com/justchenhao/IAug_CDNet)|
+|**SemiBuildingChange**|**Pseudo-label learning**|**SemiBuildingChange: A Semi-supervised High-Resolution Remote Sensing Image Building Change Detection Method With a Pseudo Bi-Temporal Data Generator**|TGRS2023|[SemiBuildingChange](https://doi.org/10.1109/TGRS.2023.3321637)|**_**|
+|**SSCD**|**Pseudo-label learning**|**A New Semi-Supervised Method for Detecting Semantic Changes in Remote Sensing Images**|GRSL2023|[SSCD](https://doi.org/10.1109/LGRS.2023.3311106)|**_**|
+|**ECPS**|**Pseudo-label learning**|**ECPS: Cross Pseudo Supervision Based on Ensemble Learning for Semi-Supervised Remote Sensing Change Detection**|TGRS2024|[ECPS](https://doi.org/10.1109/TGRS.2024.3370236)|[link](https://github.com/TangXu-Group/ECPS)|
 
 ## Active learning Labels IB-DLCD method of efficient learning
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|
 |**DALCD**|**Deep active learning in remote sensing for data efficient change detection**|ArXiv2020|[DALCD](https://doi.org/10.48550/arXiv.2008.11201)|**_**|
 |**CFSS-CD**|**A coarse-to-fine semi-supervised change detection for multispectral images**|TGRS2018|[CFSS-CD](https://doi.org/10.1109/TGRS.2018.2802785)|**_**|
-
-
 
 ## Weakly-supervised IB-DLCD method for efficient label learning
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
