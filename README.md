@@ -188,4 +188,4 @@
 |**TransWCD-DL**|**Image-level labels**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|ArXiv2023|[TransWCD-DL](https://doi.org/10.48550/arXiv.2307.10853)|[link](https://github.com/zhenghuizhao/TransWCD)|
 |**WSCD**|**Image-level labels**|**A Siamese Network Combining Multi-Scale Joint Supervision and Improved Consistency Regularization for Weakly Supervised Building Change Detection**|JSTARS2023|[WSCD](https://doi.org/10.1109/JSTARS.2023.3279863)|**_**|
 |**WSLCD**|**Image-level labels**|**Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision**|TGRS2024|[WSLCD](https://doi.org/10.1109/TGRS.2024.3379431)|[link](https://github.com/mfzhao1998/WSLCD)|
-|**RFWSCD**|**Low-resolution labels**|**Weakly supervised semantic change detection via label refinement framework**|**IGARSS2021**|[RFWSCD](https://doi.org/10.1109/IGARSS47720.2021.9553768)|**_**|
+|**RFWSCD**|**Low-resolution labels**|**Weakly supervised semantic change detection via label refinement framework**|IGARSS2021|[RFWSCD](https://doi.org/10.1109/IGARSS47720.2021.9553768)|**_**|
