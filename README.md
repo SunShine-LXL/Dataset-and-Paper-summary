@@ -72,9 +72,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**BIT**|**Sequential integration**|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
 |**UVACD**|**Sequential integration**|**A network combining a transformer and a convolutional neural network for remote sensing image change detection**|RS2022|[UVACD](https://doi.org/10.3390/rs14092228)|**_**|
-|**MTCNet**|**Sequential integration**|****|TGRS2021|[MTCNet]()|[link]()|
-|**MSCANet**|**Sequential integration**|****|JSTARS2022|[MSCANet]()|[link]()|
-|**GCFormer**|**Sequential integration**|****|TGRS2024|[GCFormer]()|[link]()|
+|**MTCNet**|**Sequential integration**|**A CBAM based multiscale transformer fusion approach for remote sensing image change detection**|TGRS2021|[MTCNet](https://doi.org/10.1109/JSTARS.2022.3198517)|**_**|
+|**MSCANet**|**Sequential integration**|**A CNN-transformer network with multiscale context aggregation for fine-grained cropland change detection**|JSTARS2022|[MSCANet](https://doi.org/10.1109/JSTARS.2022.3177235)|[link](https://github.com/liumency/CropLand-CD)|
+|**GCFormer**|**Sequential integration**|**GCFormer: Global Context-aware Transformer for Remote Sensing Image Change Detection**|TGRS2024|[GCFormer](https://doi.org/10.1109/TGRS.2024.3381738)|[link](https://github.com/yuwanting828/GCFormer)|
 
 
 
