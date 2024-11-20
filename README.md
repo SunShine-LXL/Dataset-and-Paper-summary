@@ -1,5 +1,55 @@
 ## test
 
+There are currently a large number of software with change detection tools, and we have a brief summary of them, see table 5.
+<table>
+<caption>Table 5. A list of software for change detection.</caption>
+	<tr>
+	    <th>Type</th>
+	    <th>Name</th>
+        <th>Description</th>
+	</tr>
+    <tr>
+    <td rowspan="6">Commercial</td>
+    <td>ERDAS IMAGINE</td>
+    <td>provides true value, consolidating remote sensing, photogrammetry, LiDAR analysis, basic vector analysis, and radar processing into a single product, including a variety of <a href="https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine/erdas-imagine-remote-sensing-software-package" target="_blank">change detection tools</a>.</td>
+    </tr>
+    <tr>
+    <td>ArcGIS</td>
+    <td> change detection can be calculate between two raster datasets by using the <a href="https://support.esri.com/en/technical-article/000001209" target="_blank">raster calculator tool</a> or <a href="https://pro.arcgis.com/en/pro-app/help/analysis/image-analyst/deep-learning-in-arcgis-pro.htm" target="_blank">deep learning workflow</a>. </td>
+    </tr>
+     <tr>
+    <td>ENVI</td>
+    <td>provides <a href="https://www.harrisgeospatial.com/docs/ChangeDetectionAnalysis.html" target="_blank">change detection analysis tools</a> and the <a href="https://www.harrisgeospatial.com/Software-Technology/ENVI-Deep-Learning" target="_blank"> ENVI deep learning module</a>.</td>
+    </tr>
+     <tr>
+    <td>eCognition</td>
+    <td>can be used for <a href="https://geospatial.trimble.com/products-and-solutions/ecog-essentials-support-cases" target="_blank">a variety of change mapping</a>, and by leveraging deep learning technology from the Google TensorFlow™ library, eCognition empowers customers with highly sophisticated pattern recognition and correlation tools that automate the classification of objects of interest for faster and more accurate results,<a href="https://geospatial.trimble.com/ecognition-whats-new" target="_blank"> more</a>.</td>
+    </tr>
+     <tr>
+    <td>PCI Geomatica</td>
+    <td> provides <a href="https://support.pcigeomatics.com/hc/en-us/articles/203483499-Change-Detection-Optical" target="_blank">change detection tools</a>, and can be useful in numerous circumstances in which you may want to analyze change, such as: storm damage, forest-fire damage, flooding, urban sprawl, and <a href="https://support.pcigeomatics.com/hc/en-us/articles/203483499-Change-Detection-Optical" target="_blank">more</a>.</td>
+    </tr>
+    <tr>
+    <td>SenseTime</td>
+    <td> <a href="https://www.sensetime.com/en/Service/RemoteSensing.html#product" target="_blank">SenseRemote remote sensing intelligent solutions</a></td>
+    </tr>
+    <tr>
+    <td rowspan="3">Open source</td>
+    <td>QGIS</td>
+    <td>provides many <a href="https://plugins.qgis.org/plugins/tags/change-detection/" target="_blank">change detection tools</a>.</td>
+    </tr>
+     <tr>
+    <td>Orfeo ToolBox</td>
+    <td>change detection by <a href="https://www.orfeo-toolbox.org/CookBook/Applications/Change_Detection.html" target="_blank">multivariate alteration detector (MAD) algorithm</a>.</td>
+    </tr>
+   <tr>
+    <td>Change Detection ToolBox</td>
+    <td><a href="https://github.com/Bobholamovic/ChangeDetectionToolbox" target="_blank">MATLAB toolbox for remote sensing change detection</a>.</td>
+    </tr>
+<table>
+
+
+
 
 
 
