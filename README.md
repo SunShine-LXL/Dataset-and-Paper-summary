@@ -151,10 +151,10 @@
 |**DMMSTNet**|**Bilateral mixing**|**Remote Sensing Image Change Detection Based on Deep Multi-Scale Multi-Attention Siamese Transformer Network**|RS2023|[DMMSTNet](https://doi.org/10.3390/rs15030842)|**_**|
 |**TChange**|**Bilateral mixing**|**TChange: A Hybrid Transformer-CNN Change Detection Network**|RS2023|[TChange](https://doi.org/10.3390/rs15051219)|**_**|
 
-## Label-efficient learning-based IB-DLCD methods
+## Semi-supervised label efficient learning IB-DLCD method
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|****|****|****|[BIT]()|[link]()|
+|****|****|****|****|[BIT]()|[link]()|
 
 
 
