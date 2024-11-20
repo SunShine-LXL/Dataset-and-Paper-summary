@@ -87,18 +87,23 @@
 |**RaSRNet**|**Late fusion**|**RaSRNet: An end-to-end Relation-aware Semantic Reasoning Network for Change Detection in Optical Remote Sensing Images**|TIM2023|[RaSRNet](https://doi.org/10.1109/TIM.2023.3243680)|**_**|
 |**SGSLN**|**Late fusion**|**Exchanging Dual-Encoder–Decoder: A New Strategy for Change Detection With Semantic Guidance and Spatial Localization**|TGRS2023|[SGSLN](https://doi.org/10.1109/TGRS.2023.3327780)|[link](https://github.com/NJU-LHRS/offical-SGSLN)|
 
-
-
-
-
 ## Attention-based IB-DLCD methods
-|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|****|****|****|****|[BIT]()|[link]()|
-
-
-
-
+|Abbreviation|Title|Publication|Paper|Code & Weights|
+|:---:|:---:|:---:|:---:|:---:|
+|**AGCDetNet**|**AGCDetNet: An attention-guided network for building change detection in high-resolution remote sensing images**|JSTARS2021|[AGCDetNet](https://doi.org/10.1109/JSTARS.2021.3077545)|**_**|
+|**SNAFF**|**High‐resolution optical remote sensing image change detection based on dense connection and attention feature fusion network**|PHOR2023|[SNAFF](https://doi.org/10.1111/phor.12462)|**_**|
+|**A2Net**|**Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention**|TGRS2023|[A2Net](https://doi.org/10.1109/TGRS.2023.3241436)|[link](https://github.com/guanyuezhen/A2Net)|
+|**DTCDSCN**|**Building change detection for remote sensing images using a dual-task constrained deep siamese convolutional network model**|GRSL2020|[DTCDSCN](https://doi.org/10.1109/LGRS.2020.2988032)|[link](https://github.com/fitzpchao/DTCDSCN)|
+|**SSA-SiamNet**|**SSA-SiamNet: Spectral–spatial-wise attention-based Siamese network for hyperspectral image change detection**|TGRS2021|[SSA-SiamNet](https://doi.org/10.1109/TGRS.2021.3095899)|**_**|
+|**ISNet**|**ISNet: Towards Improving Separability for Remote Sensing Image Change Detection**|TGRS2022|[ISNet](https://doi.org/10.1109/TGRS.2022.3174276)|[link](https://github.com/xingronaldo/ISNet)|
+|**IFN**|**A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images**|JPRS2020|[IFN](https://doi.org/10.1016/j.isprsjprs.2020.06.003)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images)|
+|**STANet**|**A spatial-temporal attention-based method and a new dataset for remote sensing image change detection**|RS2020|[STANet](https://doi.org/10.3390/rs12101662)|[link](https://github.com/justchenhao/STANet)|
+|**ADS-Net**|**ADS-Net: An Attention-Based deeply supervised network for remote sensing image change detection**|JAG2021|[ADS-Net](https://doi.org/10.1016/j.jag.2021.102348)|**_**|
+|**MSPSNet**|**Deep Multiscale Siamese Network With Parallel Convolutional Structure and Self-Attention for Change Detection**|TGRS2021|[MSPSNet]( https://doi.org/10.1109/TGRS.2021.3131993)|**_**|
+|**DMSANet**|**Building Change Detection in Remote Sensing Images Based on Dual Multi-Scale Attention**|RS2022|[DMSANet](https://doi.org/10.3390/rs14215405)|**_**|
+|**USSFC-Net**|**Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images**|TGRS2023|[USSFC-Net](https://doi.org/10.1109/TGRS.2023.3261273)|[link](https://github.com/SUST-reynole/USSFC-Net)|
+|**DMINet**|**Change detection on remote sensing images using dual-branch multilevel intertemporal network**|TGRS2023|[DMINet](https://doi.org/10.1109/TGRS.2023.3241257)|[link](https://github.com/ZhengJianwei2/DMINet)|
+|**GAS-Net**|**Global-aware siamese network for change detection on remote sensing images**|JPRS2023|[GAS-Net](https://doi.org/10.1016/j.isprsjprs.2023.04.001)|[link](https://github.com/xiaoxiangAQ/GAS-Net)|
 
 ## Transformer-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Code & Weights|
@@ -146,6 +151,10 @@
 |**DMMSTNet**|**Bilateral mixing**|**Remote Sensing Image Change Detection Based on Deep Multi-Scale Multi-Attention Siamese Transformer Network**|RS2023|[DMMSTNet](https://doi.org/10.3390/rs15030842)|**_**|
 |**TChange**|**Bilateral mixing**|**TChange: A Hybrid Transformer-CNN Change Detection Network**|RS2023|[TChange](https://doi.org/10.3390/rs15051219)|**_**|
 
+## Label-efficient learning-based IB-DLCD methods
+|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|****|****|****|[BIT]()|[link]()|
 
 
 
