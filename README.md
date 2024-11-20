@@ -1,5 +1,5 @@
 ## BCD datasets of optical remote sensing images 
-|Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Paper|Webline|
+|Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**AICD**|2011|1000|800×600|0.5m|[AICD](https://ieeexplore.ieee.org/document/6050150)|**_**|
 |**Land cover**|**ZY3**|2017|1|458×559|5.8m|[ZY3](https://doi.org/10.1109/TGRS.2020.2981051)|[link](http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/)|
@@ -23,7 +23,7 @@
 |**Mine**|**MineNetCD**|2024|71711|256×256|1.2m|[MineNetCD](https://doi.org/10.48550/arXiv.2407.03971)|[link](https://huggingface.co/datasets/ericyu/MineNetCD256)|
 
 ## BCD contest dataset for optical remote sensing images
-|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
+|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Land cover**|**Artificial Intelligence Remote sensing Interpretation Competition**|2020|**change detection**|4662|512×512|0.5-3m|[link](https://rs.sensetime.com/)|
@@ -32,7 +32,7 @@
 |**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition**|2021|**Building survey and change detection in high resolution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
 
 ## SCD datasets of optical remote sensing images 
-|Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Parper|Webline|
+|Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**HCCD**|2018|3|390×200|30m|[HCCD](https://doi.org/10.1109/IGARSS.2018.8518338)|**_**|
 |**Land cover**|**Mts-WH**|2019|1|7200×6000|1m|[Mts-WH](https://doi.org/10.1109/TGRS.2016.2642125)|[link](http://sigma.whu.edu.cn/newspage.php?q=2019_03_26)|
@@ -54,7 +54,7 @@
 |**Landslide**|**GVLM**|2023|17|1748×1748-10808×7424|0.59m|[GVLM](https://doi.org/10.1016/j.isprsjprs.2023.01.018)|[link](https://sagarverma.github.io/qfabric)|
 
 ## SCD contest dataset for optical remote sensing images
-|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
+|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**National Artificial Intelligence Competition**|2020|**AI + Remote sensing track**|**_**|256×256|**_**|[link](https://naic.pcl.ac.cn/landingpage/2020/index.html)|
 |**Land cover**|**"Space Map Cup" remote sensing image intelligent processing algorithm competition**|2022|**Remote sensing image change detection**|6000+|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/)|
@@ -67,7 +67,7 @@
 |**Flood**|**SpaceNet8: Flood Detection Challenge**|2022|**Flood Detection Challenge Using Multiclass Segmentation**|12|1300×1300|0.3m-0.8m|[link](https://spacenet.ai/sn8-challenge/)|
 
 ## CNN-based IB-DLCD methods
-|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**FC-EF**|**Early fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-EF]( https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**FC-EF-Res**|**Early fusion**|**Multitask learning for large-scale semantic change detection**|CVIU2019|[FC-EF-Res](https://doi.org/10.1016/j.cviu.2019.07.003)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
@@ -88,7 +88,7 @@
 |**SGSLN**|**Late fusion**|**Exchanging Dual-Encoder–Decoder: A New Strategy for Change Detection With Semantic Guidance and Spatial Localization**|TGRS2023|[SGSLN](https://doi.org/10.1109/TGRS.2023.3327780)|[link](https://github.com/NJU-LHRS/offical-SGSLN)|
 
 ## Attention-based IB-DLCD methods
-|Abbreviation|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
 |**AGCDetNet**|**AGCDetNet: An attention-guided network for building change detection in high-resolution remote sensing images**|JSTARS2021|[AGCDetNet](https://doi.org/10.1109/JSTARS.2021.3077545)|**_**|
 |**SNAFF**|**High‐resolution optical remote sensing image change detection based on dense connection and attention feature fusion network**|PHOR2023|[SNAFF](https://doi.org/10.1111/phor.12462)|**_**|
@@ -106,7 +106,7 @@
 |**GAS-Net**|**Global-aware siamese network for change detection on remote sensing images**|JPRS2023|[GAS-Net](https://doi.org/10.1016/j.isprsjprs.2023.04.001)|[link](https://github.com/xiaoxiangAQ/GAS-Net)|
 
 ## Transformer-based IB-DLCD methods
-|Abbreviation|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
 |**FTN**|**Fully transformer network for change detection of remote sensing images**|ACVV2022|[FTN](https://openaccess.thecvf.com/content/ACCV2022/html/Yan_Fully_Transformer_Network_for_Change_Detection_of_Remote_Sensing_Images_ACCV_2022_paper.html)|[link](https://github.com/AI-Zhpp/FTN)|
 |**MDAFormer**|**MDAFormer: Multi-level difference aggregation transformer for change detection of VHR optical imagery**|JAG2023|[MDAFormer](https://doi.org/10.1016/j.jag.2023.103256)|**_**|
@@ -127,7 +127,7 @@
 |**MaskCD**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|ArXiv2024|[MaskCD](https://doi.org/10.48550/arXiv.2404.12081)|[link](https://github.com/AI4RS/MaskCD)|
 
 ## CNN-Transformer hybrid-based IB-DLCD methods
-|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**BIT**|**Sequential integration**|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
 |**UVACD**|**Sequential integration**|**A network combining a transformer and a convolutional neural network for remote sensing image change detection**|RS2022|[UVACD](https://doi.org/10.3390/rs14092228)|**_**|
@@ -152,7 +152,7 @@
 |**TChange**|**Bilateral mixing**|**TChange: A Hybrid Transformer-CNN Change Detection Network**|RS2023|[TChange](https://doi.org/10.3390/rs15051219)|**_**|
 
 ## Semi-supervised label efficient learning IB-DLCD method
-|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**GDCN**|**Adversarial learning**|**A generative discriminatory classified network for change detection in multispectral imagery**|JSTARS2019|[GDCN](https://doi.org/10.1109/JSTARS.2018.2887108)|**_**|
 |**SemiCDNet**|**Adversarial learning**|**SemiCDNet: A semisupervised convolutional neural network for change detection in high resolution remote-sensing images**|TGRS2020|[SemiCDNet](https://doi.org/10.1109/TGRS.2020.3011913)|**_**|
@@ -168,17 +168,17 @@
 |**DCSS**|**Pseudo-label learning**|**Dynamically updated semi-supervised change detection network combining cross-supervision and screening algorithms**|TGRS2024|[DCSS](https://doi.org/10.1109/TGRS.2024.3369059)|**_**|
 |**IAug_CDNet**|**Pseudo-label learning**|**Adversarial instance augmentation for building change detection in remote sensing images**|TGRS2021|[IAug_CDNet](https://doi.org/10.1109/TGRS.2021.3066802)|[link](https://github.com/justchenhao/IAug_CDNet)|
 |**SemiBuildingChange**|**Pseudo-label learning**|**SemiBuildingChange: A Semi-supervised High-Resolution Remote Sensing Image Building Change Detection Method With a Pseudo Bi-Temporal Data Generator**|TGRS2023|[SemiBuildingChange](https://doi.org/10.1109/TGRS.2023.3321637)|**_**|
-|**SSCD**|**Pseudo-label learning**|**A New Semi-Supervised Method for Detecting Semantic Changes in Remote Sensing Images**|GRSL2023|[SSCD](https://doi.org/10.1109/LGRS.2023.3311106)|**_**|
 |**ECPS**|**Pseudo-label learning**|**ECPS: Cross Pseudo Supervision Based on Ensemble Learning for Semi-Supervised Remote Sensing Change Detection**|TGRS2024|[ECPS](https://doi.org/10.1109/TGRS.2024.3370236)|[link](https://github.com/TangXu-Group/ECPS)|
+|**SSCD**|**Pseudo-label learning**|**A New Semi-Supervised Method for Detecting Semantic Changes in Remote Sensing Images**|GRSL2023|[SSCD](https://doi.org/10.1109/LGRS.2023.3311106)|**_**|
 
 ## Active learning Labels IB-DLCD method of efficient learning
-|Abbreviation|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
 |**DALCD**|**Deep active learning in remote sensing for data efficient change detection**|ArXiv2020|[DALCD](https://doi.org/10.48550/arXiv.2008.11201)|**_**|
 |**CFSS-CD**|**A coarse-to-fine semi-supervised change detection for multispectral images**|TGRS2018|[CFSS-CD](https://doi.org/10.1109/TGRS.2018.2802785)|**_**|
 
 ## Weakly-supervised IB-DLCD method for efficient label learning
-|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**WSLCD**|**Image-level labels**|**Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision**|TGRS2024|[WSLCD](https://doi.org/10.1109/TGRS.2024.3379431)|[link](https://github.com/mfzhao1998/WSLCD)|
 |**CARGNet**|**Point-level labels**|**Point Label Meets Remote Sensing Change Detection: A Consistency-Aligned Regional Growth Network**|TGRS2023|[CARGNet](https://doi.org/10.1109/TGRS.2023.3348459)|[link](https://github.com/Wanderlust717/CARGNet)|
