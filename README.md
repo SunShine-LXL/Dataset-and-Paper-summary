@@ -73,19 +73,19 @@
 |**FC-EF-Res**|**Early fusion**|**Multitask learning for large-scale semantic change detection**|CVIU2019|[FC-EF-Res](https://doi.org/10.1016/j.cviu.2019.07.003)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**UNet++_MSOF**|**Early fusion**|**End-to-end change detection for high resolution satellite images using improved UNet++**|RS2019|[UNet++_MSOF]( https://doi.org/10.3390/rs11111382)|[link](https://github.com/daifeng2016/End-to-end-CD-for-VHR-satellite-image)|
 |**FC-EF**|**Early fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-EF]( https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
-|**FC-Siam-conc**|**Middle fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-Siam-conc](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
-|**FC-Siam-diff**|**Middle fusion**|**Fully convolutional siamese networks for change detection.**|ICIP2018|[FC-Siam-diff](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
-|**SNUNet-CD**|**Middle fusion**|**SNUNet-CD: A densely connected Siamese network for change detection of VHR images**|GRSL2021|[SNUNet-CD](https://doi.org/10.1109/LGRS.2021.3056416)|[link](https://github.com/likyoo/Siam-NestedUNet)|
-|**BASNet**|**Middle fusion**|**BASNet: A Boundary-Aware Siamese Network for Accurate Remote-Sensing Change Detection**|GRSL2021|[BASNet](https://doi.org/10.1109/LGRS.2021.3119885)|**_**|
-|**DSNet**|**Middle fusion**|**Deep Siamese Networks Based Change Detection with Remote Sensing Images**|RS2021|[DSNet](https://doi.org/10.3390/rs13173394)|**_**|
+|**DESNet**|**Middle fusion**|**A Difference Enhanced Neural Network for Semantic Change Detection of Remote Sensing Images**|GRSL2023|[DESNet](https://doi.org/10.1109/LGRS.2023.3310676)|**_**|
+|**EGPNet**|**Middle fusion**|**Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection**|JSTARS2023|[EGPNet](https://doi.org/10.1109/JSTARS.2023.3306274)|[link](https://github.com/Lvkyky/EGPNet)|
 |**SMD-Net**|**Middle fusion**|**SMD-Net: Siamese multi-scale difference-enhancement network for change detection in remote sensing**|RS2022|[SMD-Net](https://doi.org/10.3390/rs14071580)|**_**|
 |**Bi-SRNet**|**Middle fusion**|**Bi-temporal semantic reasoning for the semantic change detection in HR remote sensing images**|TGRS2022|[Bi-SRNet](https://doi.org/10.1109/TGRS.2022.3154390)|[link](https://github.com/DingLei14/Bi-SRNet)|
 |**P2V-CD**|**Middle fusion**|**Transition is a process: Pair-to-video change detection networks for very high resolution remote sensing images**|TIP2022|[P2V-CD](https://doi.org/10.1109/TIP.2022.3226418)|[link](https://github.com/Bobholamovic/CDLab)|
-|**DESNet**|**Middle fusion**|**A Difference Enhanced Neural Network for Semantic Change Detection of Remote Sensing Images**|GRSL2023|[DESNet](https://doi.org/10.1109/LGRS.2023.3310676)|**_**|
-|**EGPNet**|**Middle fusion**|**Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection**|JSTARS2023|[EGPNet](https://doi.org/10.1109/JSTARS.2023.3306274)|[link](https://github.com/Lvkyky/EGPNet)|
-|**FCCDN**|**Late fusion**|**FCCDN: Feature constraint network for VHR image change detection**|JPRS2022|[FCCDN](https://doi.org/10.1016/j.isprsjprs.2022.02.021)|[link](https://github.com/chenpan0615/FCCDN_pytorch)|
+|**SNUNet-CD**|**Middle fusion**|**SNUNet-CD: A densely connected Siamese network for change detection of VHR images**|GRSL2021|[SNUNet-CD](https://doi.org/10.1109/LGRS.2021.3056416)|[link](https://github.com/likyoo/Siam-NestedUNet)|
+|**BASNet**|**Middle fusion**|**BASNet: A Boundary-Aware Siamese Network for Accurate Remote-Sensing Change Detection**|GRSL2021|[BASNet](https://doi.org/10.1109/LGRS.2021.3119885)|**_**|
+|**DSNet**|**Middle fusion**|**Deep Siamese Networks Based Change Detection with Remote Sensing Images**|RS2021|[DSNet](https://doi.org/10.3390/rs13173394)|**_**|
+|**FC-Siam-conc**|**Middle fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-Siam-conc](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
+|**FC-Siam-diff**|**Middle fusion**|**Fully convolutional siamese networks for change detection.**|ICIP2018|[FC-Siam-diff](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**RaSRNet**|**Late fusion**|**RaSRNet: An end-to-end Relation-aware Semantic Reasoning Network for Change Detection in Optical Remote Sensing Images**|TIM2023|[RaSRNet](https://doi.org/10.1109/TIM.2023.3243680)|**_**|
 |**SGSLN**|**Late fusion**|**Exchanging Dual-Encoder–Decoder: A New Strategy for Change Detection With Semantic Guidance and Spatial Localization**|TGRS2023|[SGSLN](https://doi.org/10.1109/TGRS.2023.3327780)|[link](https://github.com/NJU-LHRS/offical-SGSLN)|
+|**FCCDN**|**Late fusion**|**FCCDN: Feature constraint network for VHR image change detection**|JPRS2022|[FCCDN](https://doi.org/10.1016/j.isprsjprs.2022.02.021)|[link](https://github.com/chenpan0615/FCCDN_pytorch)|
 
 ## Attention-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Website|
