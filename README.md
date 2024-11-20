@@ -75,9 +75,9 @@
 |**FC-EF**|**Early fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-EF]( https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**DESNet**|**Middle fusion**|**A Difference Enhanced Neural Network for Semantic Change Detection of Remote Sensing Images**|GRSL2023|[DESNet](https://doi.org/10.1109/LGRS.2023.3310676)|**_**|
 |**EGPNet**|**Middle fusion**|**Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection**|JSTARS2023|[EGPNet](https://doi.org/10.1109/JSTARS.2023.3306274)|[link](https://github.com/Lvkyky/EGPNet)|
-|**SMD-Net**|**Middle fusion**|**SMD-Net: Siamese multi-scale difference-enhancement network for change detection in remote sensing**|RS2022|[SMD-Net](https://doi.org/10.3390/rs14071580)|**_**|
 |**Bi-SRNet**|**Middle fusion**|**Bi-temporal semantic reasoning for the semantic change detection in HR remote sensing images**|TGRS2022|[Bi-SRNet](https://doi.org/10.1109/TGRS.2022.3154390)|[link](https://github.com/DingLei14/Bi-SRNet)|
 |**P2V-CD**|**Middle fusion**|**Transition is a process: Pair-to-video change detection networks for very high resolution remote sensing images**|TIP2022|[P2V-CD](https://doi.org/10.1109/TIP.2022.3226418)|[link](https://github.com/Bobholamovic/CDLab)|
+|**SMD-Net**|**Middle fusion**|**SMD-Net: Siamese multi-scale difference-enhancement network for change detection in remote sensing**|RS2022|[SMD-Net](https://doi.org/10.3390/rs14071580)|**_**|
 |**SNUNet-CD**|**Middle fusion**|**SNUNet-CD: A densely connected Siamese network for change detection of VHR images**|GRSL2021|[SNUNet-CD](https://doi.org/10.1109/LGRS.2021.3056416)|[link](https://github.com/likyoo/Siam-NestedUNet)|
 |**BASNet**|**Middle fusion**|**BASNet: A Boundary-Aware Siamese Network for Accurate Remote-Sensing Change Detection**|GRSL2021|[BASNet](https://doi.org/10.1109/LGRS.2021.3119885)|**_**|
 |**DSNet**|**Middle fusion**|**Deep Siamese Networks Based Change Detection with Remote Sensing Images**|RS2021|[DSNet](https://doi.org/10.3390/rs13173394)|**_**|
@@ -90,41 +90,43 @@
 ## Attention-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
-|**AGCDetNet**|**AGCDetNet: An attention-guided network for building change detection in high-resolution remote sensing images**|JSTARS2021|[AGCDetNet](https://doi.org/10.1109/JSTARS.2021.3077545)|**_**|
-|**SNAFF**|**High‐resolution optical remote sensing image change detection based on dense connection and attention feature fusion network**|PHOR2023|[SNAFF](https://doi.org/10.1111/phor.12462)|**_**|
+
 |**A2Net**|**Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention**|TGRS2023|[A2Net](https://doi.org/10.1109/TGRS.2023.3241436)|[link](https://github.com/guanyuezhen/A2Net)|
-|**DTCDSCN**|**Building change detection for remote sensing images using a dual-task constrained deep siamese convolutional network model**|GRSL2020|[DTCDSCN](https://doi.org/10.1109/LGRS.2020.2988032)|[link](https://github.com/fitzpchao/DTCDSCN)|
-|**SSA-SiamNet**|**SSA-SiamNet: Spectral–spatial-wise attention-based Siamese network for hyperspectral image change detection**|TGRS2021|[SSA-SiamNet](https://doi.org/10.1109/TGRS.2021.3095899)|**_**|
-|**ISNet**|**ISNet: Towards Improving Separability for Remote Sensing Image Change Detection**|TGRS2022|[ISNet](https://doi.org/10.1109/TGRS.2022.3174276)|[link](https://github.com/xingronaldo/ISNet)|
-|**IFN**|**A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images**|JPRS2020|[IFN](https://doi.org/10.1016/j.isprsjprs.2020.06.003)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images)|
-|**STANet**|**A spatial-temporal attention-based method and a new dataset for remote sensing image change detection**|RS2020|[STANet](https://doi.org/10.3390/rs12101662)|[link](https://github.com/justchenhao/STANet)|
-|**ADS-Net**|**ADS-Net: An Attention-Based deeply supervised network for remote sensing image change detection**|JAG2021|[ADS-Net](https://doi.org/10.1016/j.jag.2021.102348)|**_**|
-|**MSPSNet**|**Deep Multiscale Siamese Network With Parallel Convolutional Structure and Self-Attention for Change Detection**|TGRS2021|[MSPSNet]( https://doi.org/10.1109/TGRS.2021.3131993)|**_**|
-|**DMSANet**|**Building Change Detection in Remote Sensing Images Based on Dual Multi-Scale Attention**|RS2022|[DMSANet](https://doi.org/10.3390/rs14215405)|**_**|
-|**USSFC-Net**|**Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images**|TGRS2023|[USSFC-Net](https://doi.org/10.1109/TGRS.2023.3261273)|[link](https://github.com/SUST-reynole/USSFC-Net)|
 |**DMINet**|**Change detection on remote sensing images using dual-branch multilevel intertemporal network**|TGRS2023|[DMINet](https://doi.org/10.1109/TGRS.2023.3241257)|[link](https://github.com/ZhengJianwei2/DMINet)|
 |**GAS-Net**|**Global-aware siamese network for change detection on remote sensing images**|JPRS2023|[GAS-Net](https://doi.org/10.1016/j.isprsjprs.2023.04.001)|[link](https://github.com/xiaoxiangAQ/GAS-Net)|
+|**USSFC-Net**|**Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images**|TGRS2023|[USSFC-Net](https://doi.org/10.1109/TGRS.2023.3261273)|[link](https://github.com/SUST-reynole/USSFC-Net)|
+|**SNAFF**|**High‐resolution optical remote sensing image change detection based on dense connection and attention feature fusion network**|PHOR2023|[SNAFF](https://doi.org/10.1111/phor.12462)|**_**|
+|**DMSANet**|**Building Change Detection in Remote Sensing Images Based on Dual Multi-Scale Attention**|RS2022|[DMSANet](https://doi.org/10.3390/rs14215405)|**_**|
+|**ISNet**|**ISNet: Towards Improving Separability for Remote Sensing Image Change Detection**|TGRS2022|[ISNet](https://doi.org/10.1109/TGRS.2022.3174276)|[link](https://github.com/xingronaldo/ISNet)|
+|**AGCDetNet**|**AGCDetNet: An attention-guided network for building change detection in high-resolution remote sensing images**|JSTARS2021|[AGCDetNet](https://doi.org/10.1109/JSTARS.2021.3077545)|**_**|
+|**ADS-Net**|**ADS-Net: An Attention-Based deeply supervised network for remote sensing image change detection**|JAG2021|[ADS-Net](https://doi.org/10.1016/j.jag.2021.102348)|**_**|
+|**SSA-SiamNet**|**SSA-SiamNet: Spectral–spatial-wise attention-based Siamese network for hyperspectral image change detection**|TGRS2021|[SSA-SiamNet](https://doi.org/10.1109/TGRS.2021.3095899)|**_**|
+|**MSPSNet**|**Deep Multiscale Siamese Network With Parallel Convolutional Structure and Self-Attention for Change Detection**|TGRS2021|[MSPSNet]( https://doi.org/10.1109/TGRS.2021.3131993)|**_**|
+|**DTCDSCN**|**Building change detection for remote sensing images using a dual-task constrained deep siamese convolutional network model**|GRSL2020|[DTCDSCN](https://doi.org/10.1109/LGRS.2020.2988032)|[link](https://github.com/fitzpchao/DTCDSCN)|
+|**IFN**|**A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images**|JPRS2020|[IFN](https://doi.org/10.1016/j.isprsjprs.2020.06.003)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images)|
+|**STANet**|**A spatial-temporal attention-based method and a new dataset for remote sensing image change detection**|RS2020|[STANet](https://doi.org/10.3390/rs12101662)|[link](https://github.com/justchenhao/STANet)|
 
 ## Transformer-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
-|**FTN**|**Fully transformer network for change detection of remote sensing images**|ACVV2022|[FTN](https://openaccess.thecvf.com/content/ACCV2022/html/Yan_Fully_Transformer_Network_for_Change_Detection_of_Remote_Sensing_Images_ACCV_2022_paper.html)|[link](https://github.com/AI-Zhpp/FTN)|
-|**MDAFormer**|**MDAFormer: Multi-level difference aggregation transformer for change detection of VHR optical imagery**|JAG2023|[MDAFormer](https://doi.org/10.1016/j.jag.2023.103256)|**_**|
-|**Pyramid-SCDFormer**|**A transformer-based Siamese network and an open optical dataset for semantic change detection of remote sensing images**|JDE2022|[Pyramid-SCDFormer](https://doi.org/10.1080/17538947.2022.2111470)|**_**|
-|**TransUNetCD**|**TransUNetCD: A hybrid transformer network for change detection in optical remote-sensing images.**|TGRS2022|[TransUNetCD](https://doi.org/10.1109/TGRS.2022.3169479)|**_**|
-|**TMFF**|**Transformer-based multi-scale feature fusion network for remote sensing change detection**|JRS2022|[TMFF](https://doi.org/10.1117/1.JRS.16.046509)|**_**|
-|**SwinSUNet**|**SwinSUNet: Pure transformer network for remote sensing image change detection**|TGRS2022|[SwinSUNet](https://doi.org/10.1109/TGRS.2022.3160007)|**_**|
-|**SST-Former**|**Spectral–spatial–temporal transformers for hyperspectral image change detection**|TGRS2022|[SST-Former](https://doi.org/10.1109/TGRS.2022.3203075)|[link](https://github.com/yanhengwang-heu/IEEE_TGRS_SSTFormer)|
-|**ChangeFormer**|**A transformer-based siamese network for change detection**|IGARSS2022|[ChangeFormer](https://doi.org/10.1109/IGARSS46834.2022.9883686)|[link](https://github.com/wgcban/ChangeFormer)|
-|**TransY-Net**|**TransY-Net: Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|TGRS2023|[TransY-Net](https://doi.org/10.1109/TGRS.2023.3327253)|[link](https://github.com/Drchip61/TransYNet)|
-|**SBA-PN**|**Siamese Bi-Attention Pooling Network for Change Detection in Remote Sensing**|JSTARS2024|[SBA-PN](https://doi.org/10.1109/JSTARS.2024.3373753)|**_**|
 |**BiFA**|**Bifa: Remote sensing image change detection with bitemporal feature alignment**|TGRS2024|[BiFA](https://doi.org/10.1109/TGRS.2024.3376673)|[link](https://github.com/zmoka-zht/BiFA)|
-|**ScratchFormer**|**Remote sensing change detection with transformers trained from scratch**|TGRS2024|[ScratchFormer](https://doi.org/10.1109/TGRS.2024.3383800)|[link](https://github.com/mustansarfiaz/ScratchFormer)|
 |**Changemamba**|**Changemamba: Remote sensing change detection with spatio-temporal state space model**|ArXiv2024|[Changemamba](https://doi.org/10.48550/arXiv.2404.03425)|[link](https://github.com/ChenHongruixuan/MambaCD)|
-|**M-CD**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|ArXiv2024|[M-CD](https://doi.org/10.48550/arXiv.2407.06839)|[link](https://github.com/JayParanjape/M-CD)|
 |**CDMamba**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|ArXiv2024|[CDMamba](https://doi.org/10.48550/arXiv.2406.04207)|[link](https://github.com/zmoka-zht/CDMamba)|
 |**CDMask**|**Rethinking Remote Sensing Change Detection With A Mask View**|ArXiv2024|[CDMask](https://doi.org/10.48550/arXiv.2406.15320)|[link](https://github.com/xwmaxwma/rschange)|
 |**MaskCD**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|ArXiv2024|[MaskCD](https://doi.org/10.48550/arXiv.2404.12081)|[link](https://github.com/AI4RS/MaskCD)|
+|**M-CD**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|ArXiv2024|[M-CD](https://doi.org/10.48550/arXiv.2407.06839)|[link](https://github.com/JayParanjape/M-CD)|
+|**SBA-PN**|**Siamese Bi-Attention Pooling Network for Change Detection in Remote Sensing**|JSTARS2024|[SBA-PN](https://doi.org/10.1109/JSTARS.2024.3373753)|**_**|
+|**ScratchFormer**|**Remote sensing change detection with transformers trained from scratch**|TGRS2024|[ScratchFormer](https://doi.org/10.1109/TGRS.2024.3383800)|[link](https://github.com/mustansarfiaz/ScratchFormer)|
+|**MDAFormer**|**MDAFormer: Multi-level difference aggregation transformer for change detection of VHR optical imagery**|JAG2023|[MDAFormer](https://doi.org/10.1016/j.jag.2023.103256)|**_**|
+|**TransY-Net**|**TransY-Net: Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|TGRS2023|[TransY-Net](https://doi.org/10.1109/TGRS.2023.3327253)|[link](https://github.com/Drchip61/TransYNet)|
+|**ChangeFormer**|**A transformer-based siamese network for change detection**|IGARSS2022|[ChangeFormer](https://doi.org/10.1109/IGARSS46834.2022.9883686)|[link](https://github.com/wgcban/ChangeFormer)|
+|**FTN**|**Fully transformer network for change detection of remote sensing images**|ACVV2022|[FTN](https://openaccess.thecvf.com/content/ACCV2022/html/Yan_Fully_Transformer_Network_for_Change_Detection_of_Remote_Sensing_Images_ACCV_2022_paper.html)|[link](https://github.com/AI-Zhpp/FTN)|
+|**Pyramid-SCDFormer**|**A transformer-based Siamese network and an open optical dataset for semantic change detection of remote sensing images**|JDE2022|[Pyramid-SCDFormer](https://doi.org/10.1080/17538947.2022.2111470)|**_**|
+|**SST-Former**|**Spectral–spatial–temporal transformers for hyperspectral image change detection**|TGRS2022|[SST-Former](https://doi.org/10.1109/TGRS.2022.3203075)|[link](https://github.com/yanhengwang-heu/IEEE_TGRS_SSTFormer)|
+|**SwinSUNet**|**SwinSUNet: Pure transformer network for remote sensing image change detection**|TGRS2022|[SwinSUNet](https://doi.org/10.1109/TGRS.2022.3160007)|**_**|
+|**TMFF**|**Transformer-based multi-scale feature fusion network for remote sensing change detection**|JRS2022|[TMFF](https://doi.org/10.1117/1.JRS.16.046509)|**_**|
+|**TransUNetCD**|**TransUNetCD: A hybrid transformer network for change detection in optical remote-sensing images.**|TGRS2022|[TransUNetCD](https://doi.org/10.1109/TGRS.2022.3169479)|**_**|
+
 
 ## CNN-Transformer hybrid-based IB-DLCD methods
 |Abbreviation|Category|Title|Publication|Paper|Website|
