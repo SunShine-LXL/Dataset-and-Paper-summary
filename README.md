@@ -154,11 +154,27 @@
 ## Semi-supervised label efficient learning IB-DLCD method
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|****|****|****|****|[BIT]()|[link]()|
+|**GDCN**|**Adversarial learning**|****|****|[GDCN]()|[link]()|
+|**SemiCDNet**|**Adversarial learning**|****|****|[SemiCDNet]()|[link]()|
+|**SaDL**|**Consistency constraints**|****|****|[SaDL]()|[link]()|
+|**SemiCD**|**Consistency constraints**|****|****|[SemiCD]()|[link]()|
+|**C2F-SemiCD**|**Consistency constraints**|****|****|[C2F-SemiCD]()|[link]()|
+|**Semi-LCD**|**Consistency constraints**|****|****|[Semi-LCD]()|[link]()|
+|**FPA**|**Consistency constraints**|****|****|[FPA]()|[link]()|
+|**ST-RCL**|**Pseudo-label learning**|****|****|[ST-RCL]()|[link]()|
+|**SemiSANet**|**Pseudo-label learning**|****|****|[SemiSANet]()|[link]()|
+|**STCRNet**|**Pseudo-label learning**|****|****|[STCRNet]()|[link]()|
+|**RCL**|**Pseudo-label learning**|****|****|[RCL]()|[link]()|
+|**DCSS**|**Pseudo-label learning**|****|****|[DCSS]()|[link]()|
+|**IAug_CDNet**|**Pseudo-label learning**|****|****|[IAug_CDNet]()|[link]()|
+|**SemiBuildingChange**|**Pseudo-label learning**|****|****|[SemiBuildingChange]()|[link]()|
+|**SSCD**|**Pseudo-label learning**|****|****|[SSCD]()|[link]()|
+|**ECPS**|**Pseudo-label learning**|****|****|[ECPS]()|[link]()|
+
 
 ## Active learning Labels IB-DLCD method of efficient learning
 |Abbreviation|Title|Publication|Paper|Code & Weights|
-|:---:|:--:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |**DALCD**|**Deep active learning in remote sensing for data efficient change detection**|ArXiv2020|[DALCD](https://doi.org/10.48550/arXiv.2008.11201)|**_**|
 |**CFSS-CD**|**A coarse-to-fine semi-supervised change detection for multispectral images**|TGRS2018|[CFSS-CD](https://doi.org/10.1109/TGRS.2018.2802785)|**_**|
 
@@ -167,5 +183,12 @@
 ## Weakly-supervised IB-DLCD method for efficient label learning
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|****|****|****|****|[BIT]()|[link]()|
-
+|**CARGNet**|**Point-level labels**|****|****|[CARGNet]()|[link]()|
+|**MS-Former**|**Patch-level labels**|****|****|[MS-Former]()|[link]()|
+|**SDCDNet**|**Patch-level labels**|****|****|[SDCDNet]()|[link]()|
+|**BGMix**|**Image-level labels**|****|****|[BGMix]()|[link]()|
+|**FCD-GAN**|**Image-level labels**|****|****|[FCD-GAN]()|[link]()|
+|**TransWCD-DL**|**Image-level labels**|****|****|[TransWCD-DL]()|[link]()|
+|**WSCD**|**Image-level labels**|****|****|[WSCD]()|[link]()|
+|**WSLCD**|**Image-level labels**|****|****|[WSLCD]()|[link]()|
+|**RFWSCD**|**Low-resolution labels**|****|****|[RFWSCD]()|[link]()|
