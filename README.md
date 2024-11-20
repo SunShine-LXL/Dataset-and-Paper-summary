@@ -43,10 +43,13 @@
 	<tr>
 	    <th>横坐标1</th>
 	    <th>横坐标2</th>
+	<tr>
+	    <th>横坐标6</th>
+	    <th>横坐标2</th>
+		
         <th>横坐标3</th>
 		<th>横坐标4</th>
-	</tr>
-	<th>横坐标5</th>
+
 	</tr>
     <tr>
     <td rowspan="6">纵坐标大类</td>
