@@ -159,7 +159,10 @@
 ## Active learning Labels IB-DLCD method of efficient learning
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|
-|****|****|****|[BIT]()|[link]()|
+|**DALCD**|**Deep active learning in remote sensing for data efficient change detection**|ArXiv2020|[DALCD](https://doi.org/10.48550/arXiv.2008.11201)|**_**|
+|**CFSS-CD**|**A coarse-to-fine semi-supervised change detection for multispectral images**|TGRS2018|[CFSS-CD](https://doi.org/10.1109/TGRS.2018.2802785)|**_**|
+
+
 
 ## Weakly-supervised IB-DLCD method for efficient label learning
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
