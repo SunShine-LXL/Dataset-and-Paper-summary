@@ -69,10 +69,10 @@
 ## CNN-based IB-DLCD methods
 |Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|**FC-EF**|**Early fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-EF]( https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
+|**Res2-Unet**|**Early fusion**|**Res2-Unet, a new deep architecture for building detection from high spatial resolution images**|JSTARS2022|[Res2-Unet](https://doi.org/10.1109/JSTARS.2022.3146430)|[link](https://github.com/yubozuzu123/res2-unet)|
 |**FC-EF-Res**|**Early fusion**|**Multitask learning for large-scale semantic change detection**|CVIU2019|[FC-EF-Res](https://doi.org/10.1016/j.cviu.2019.07.003)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**UNet++_MSOF**|**Early fusion**|**End-to-end change detection for high resolution satellite images using improved UNet++**|RS2019|[UNet++_MSOF]( https://doi.org/10.3390/rs11111382)|[link](https://github.com/daifeng2016/End-to-end-CD-for-VHR-satellite-image)|
-|**Res2-Unet**|**Early fusion**|**Res2-Unet, a new deep architecture for building detection from high spatial resolution images**|JSTARS2022|[Res2-Unet](https://doi.org/10.1109/JSTARS.2022.3146430)|[link](https://github.com/yubozuzu123/res2-unet)|
+|**FC-EF**|**Early fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-EF]( https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**FC-Siam-conc**|**Middle fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-Siam-conc](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**FC-Siam-diff**|**Middle fusion**|**Fully convolutional siamese networks for change detection.**|ICIP2018|[FC-Siam-diff](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**SNUNet-CD**|**Middle fusion**|**SNUNet-CD: A densely connected Siamese network for change detection of VHR images**|GRSL2021|[SNUNet-CD](https://doi.org/10.1109/LGRS.2021.3056416)|[link](https://github.com/likyoo/Siam-NestedUNet)|
