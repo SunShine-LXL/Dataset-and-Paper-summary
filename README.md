@@ -6,7 +6,6 @@
 	    <th>横坐标1</th>
 	    <th>横坐标2</th>
         <th>横坐标3</th>
-		<th>横坐标4</th>
 	</tr>
     <tr>
     <td rowspan="6">纵坐标大类</td>
@@ -36,7 +35,7 @@
     <tr>
 <table>
 
-## test
+## try
 <table>
 <caption>
 	<tr>
@@ -54,6 +53,8 @@
     </tr>
     <tr>
     <td>纵坐标小类2</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a> or <a href="链接" target="_blank">链接文字</a>. </td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a> or <a href="链接" target="_blank">链接文字</a>. </td>
     <td> 描述 <a href="链接" target="_blank">链接文字</a> or <a href="链接" target="_blank">链接文字</a>. </td>
     </tr>
      <tr>
