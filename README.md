@@ -70,7 +70,7 @@
 ## CNN-Transformer hybrid-based IB-DLCD methods
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|**BIT**|**Sequential integration**|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
+|**BIT**|Sequential integration|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
 
 
 
