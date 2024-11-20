@@ -180,6 +180,7 @@
 ## Weakly-supervised IB-DLCD method for efficient label learning
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|**WSLCD**|**Image-level labels**|**Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision**|TGRS2024|[WSLCD](https://doi.org/10.1109/TGRS.2024.3379431)|[link](https://github.com/mfzhao1998/WSLCD)|
 |**CARGNet**|**Point-level labels**|**Point Label Meets Remote Sensing Change Detection: A Consistency-Aligned Regional Growth Network**|TGRS2023|[CARGNet](https://doi.org/10.1109/TGRS.2023.3348459)|[link](https://github.com/Wanderlust717/CARGNet)|
 |**MS-Former**|**Patch-level labels**|**MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations**|ArXiv2023|[MS-Former](https://doi.org/10.48550/arXiv.2311.09726)|[link](https://github.com/guanyuezhen/MS-Former)|
 |**SDCDNet**|**Patch-level labels**|**SDCDNet: A Semi-Dual Change Detection Network Framework with Super-Weak Lable for Remote Sensing Image**|TGRS2023|[SDCDNet](https://doi.org/10.1109/TGRS.2023.3286113)|**_**|
@@ -187,5 +188,4 @@
 |**FCD-GAN**|**Image-level labels**|**Fully convolutional change detection framework with generative adversarial network for unsupervised, weakly supervised and regional supervised change detection**|TPAMI2023|[FCD-GAN](https://doi.org/10.1109/TPAMI.2023.3237896)|[link](https://github.com/Cwuwhu/FCD-GAN-pytorch)|
 |**TransWCD-DL**|**Image-level labels**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|ArXiv2023|[TransWCD-DL](https://doi.org/10.48550/arXiv.2307.10853)|[link](https://github.com/zhenghuizhao/TransWCD)|
 |**WSCD**|**Image-level labels**|**A Siamese Network Combining Multi-Scale Joint Supervision and Improved Consistency Regularization for Weakly Supervised Building Change Detection**|JSTARS2023|[WSCD](https://doi.org/10.1109/JSTARS.2023.3279863)|**_**|
-|**WSLCD**|**Image-level labels**|**Beyond Pixel-Level Annotation: Exploring Self-Supervised Learning for Change Detection With Image-Level Supervision**|TGRS2024|[WSLCD](https://doi.org/10.1109/TGRS.2024.3379431)|[link](https://github.com/mfzhao1998/WSLCD)|
 |**RFWSCD**|**Low-resolution labels**|**Weakly supervised semantic change detection via label refinement framework**|IGARSS2021|[RFWSCD](https://doi.org/10.1109/IGARSS47720.2021.9553768)|**_**|
