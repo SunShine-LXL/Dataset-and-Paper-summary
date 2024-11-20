@@ -94,7 +94,7 @@
 ## Attention-based IB-DLCD methods
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|****|****|****|****|****|[BIT]()|[link]()|
+|****|****|****|****|[BIT]()|[link]()|
 
 
 
