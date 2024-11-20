@@ -23,8 +23,8 @@
 |**Mine**|**MineNetCD**|2024|71711|256×256|1.2m|[MineNetCD](https://doi.org/10.48550/arXiv.2407.03971)|[link](https://huggingface.co/datasets/ericyu/MineNetCD256)|
 
 ## BCD contest dataset for optical remote sensing images
-|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Parper|Webline|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Land cover**|**Artificial Intelligence Remote sensing Interpretation Competition**|2020|**change detection**|4662|512×512|0.5-3m|[link](https://rs.sensetime.com/)|
 |**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
@@ -54,8 +54,8 @@
 |**Landslide**|**GVLM**|2023|17|1748×1748-10808×7424|0.59m|[GVLM](https://doi.org/10.1016/j.isprsjprs.2023.01.018)|[link](https://sagarverma.github.io/qfabric)|
 
 ## BCD contest dataset for optical remote sensing images
-|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Parper|Webline|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**National Artificial Intelligence Competition**|2020|**AI + Remote sensing track**|**_**|256×256|**_**|[link](https://naic.pcl.ac.cn/landingpage/2020/index.html)|
 |**Land cover**|**"Space Map Cup" remote sensing image intelligent processing algorithm competition**|2022|**Remote sensing image change detection**|6000+|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/)|
 |**Land cover**|**"Guofeng East Eye Cup" remote sensing image intelligent processing algorithm competition**|2023|**Object level change detection**|6000+|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/)|
