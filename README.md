@@ -78,9 +78,9 @@
 |**Bi-SRNet**|**Middle fusion**|**Bi-temporal semantic reasoning for the semantic change detection in HR remote sensing images**|TGRS2022|[Bi-SRNet](https://doi.org/10.1109/TGRS.2022.3154390)|[link](https://github.com/DingLei14/Bi-SRNet)|
 |**P2V-CD**|**Middle fusion**|**Transition is a process: Pair-to-video change detection networks for very high resolution remote sensing images**|TIP2022|[P2V-CD](https://doi.org/10.1109/TIP.2022.3226418)|[link](https://github.com/Bobholamovic/CDLab)|
 |**SMD-Net**|**Middle fusion**|**SMD-Net: Siamese multi-scale difference-enhancement network for change detection in remote sensing**|RS2022|[SMD-Net](https://doi.org/10.3390/rs14071580)|**_**|
-|**SNUNet-CD**|**Middle fusion**|**SNUNet-CD: A densely connected Siamese network for change detection of VHR images**|GRSL2021|[SNUNet-CD](https://doi.org/10.1109/LGRS.2021.3056416)|[link](https://github.com/likyoo/Siam-NestedUNet)|
 |**BASNet**|**Middle fusion**|**BASNet: A Boundary-Aware Siamese Network for Accurate Remote-Sensing Change Detection**|GRSL2021|[BASNet](https://doi.org/10.1109/LGRS.2021.3119885)|**_**|
 |**DSNet**|**Middle fusion**|**Deep Siamese Networks Based Change Detection with Remote Sensing Images**|RS2021|[DSNet](https://doi.org/10.3390/rs13173394)|**_**|
+|**SNUNet-CD**|**Middle fusion**|**SNUNet-CD: A densely connected Siamese network for change detection of VHR images**|GRSL2021|[SNUNet-CD](https://doi.org/10.1109/LGRS.2021.3056416)|[link](https://github.com/likyoo/Siam-NestedUNet)|
 |**FC-Siam-conc**|**Middle fusion**|**Fully convolutional siamese networks for change detection**|ICIP2018|[FC-Siam-conc](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**FC-Siam-diff**|**Middle fusion**|**Fully convolutional siamese networks for change detection.**|ICIP2018|[FC-Siam-diff](https://doi.org/10.1109/ICIP.2018.8451652)|[link](https://github.com/rcdaudt/fully_convolutional_change_detection)|
 |**RaSRNet**|**Late fusion**|**RaSRNet: An end-to-end Relation-aware Semantic Reasoning Network for Change Detection in Optical Remote Sensing Images**|TIM2023|[RaSRNet](https://doi.org/10.1109/TIM.2023.3243680)|**_**|
@@ -90,7 +90,6 @@
 ## Attention-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
-
 |**A2Net**|**Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention**|TGRS2023|[A2Net](https://doi.org/10.1109/TGRS.2023.3241436)|[link](https://github.com/guanyuezhen/A2Net)|
 |**DMINet**|**Change detection on remote sensing images using dual-branch multilevel intertemporal network**|TGRS2023|[DMINet](https://doi.org/10.1109/TGRS.2023.3241257)|[link](https://github.com/ZhengJianwei2/DMINet)|
 |**GAS-Net**|**Global-aware siamese network for change detection on remote sensing images**|JPRS2023|[GAS-Net](https://doi.org/10.1016/j.isprsjprs.2023.04.001)|[link](https://github.com/xiaoxiangAQ/GAS-Net)|
