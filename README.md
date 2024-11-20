@@ -42,7 +42,7 @@
 	<tr>
 	    <th>横坐标1</th>
 	    <th>横坐标2</th>
-	<tr>	
+</caption>tr>	
              <th>横坐标3</th>	
 	     <th>横坐标4</th>
 	</tr>
