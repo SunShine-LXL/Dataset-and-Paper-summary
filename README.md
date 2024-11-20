@@ -1,22 +1,3 @@
-target="_blank">Download</a>]</td>
-    </tr>
-    <tr>
-	    <td rowspan="2" >Optical RS & SAR</td>
-	    <td>California dataset [<a href="#Ref-22">22</a>]</td>
-	    <td> 3 images, including a RS image captured by Landsat 8 with 9 channels on 2017, a SAR image captured by Sentinel-1A (recorded in polarisations VV and VH) after the occurrence of a flood, and a ground truth map. [<a href="https://sites.google.com/view/luppino/data" target="_blank">Download</a>]</td>
-	</tr>
-	 <tr>
-	    <td>Homogeneous CD Dataset [<a href="#Ref-30">30</a>]</td>
-	    <td>6 scenarios:  Scenario  1  with  two  single-polarizationSAR  data  sets;  Scenario  2  with  two  PolSAR  data  sets;  Scenario  3  with  two  optical  image  data  sets.  HeterogeneousCD:  Scenario  4  with  two  SAR/optical  (multispectral)  datasets;  Scenario  5  with  two  multispectral data  sets  of  differentbands  acquired  from  different  sensors;  Scenario  6  with  twoPolSAR/optical  (multispectral)  data  sets.  [<a href="https://github.com/yulisun/INLPG" target="_blank">Download</a>]</td>
-	</tr>
-	<tr>
-	    <td rowspan="3" >Street view</td>
-	    <td>VL-CMU-CD  [<a href="#Ref-15">15</a>]</td>
-	    <td>1362 co-registered pairs of RGB and depth images, labeled ground truth change (e.g., bin, sign, vehicle, refuse, construction, traffic cone, person/cycle, barrier) and sky masks at pixel level. [<a href="http://ghsi.github.io/proj/RSS2016.html" 
-
-
-
-
 ## BCD datasets of optical remote sensing images 
 |Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
