@@ -23,8 +23,8 @@
 |**Mine**|**MineNetCD**|2024|71711|256×256|1.2m|[MineNetCD](https://doi.org/10.48550/arXiv.2407.03971)|[link](https://huggingface.co/datasets/ericyu/MineNetCD256)|
 
 ## BCD contest dataset for optical remote sensing images
-|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Parper|Webline|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Land cover**|**Artificial Intelligence Remote sensing Interpretation Competition**|2020|**change detection**|4662|512×512|0.5-3m|[link](https://rs.sensetime.com/)|
 |**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
@@ -32,8 +32,8 @@
 |**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition**|2021|**Building survey and change detection in high resolution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
 
 ## SCD datasets of optical remote sensing images 
-|Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Webline|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Parper|Webline|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**HCCD**|2018|3|390×200|30m|[HCCD](https://doi.org/10.1109/IGARSS.2018.8518338)|**_**|
 |**Land cover**|**Mts-WH**|2019|1|7200×6000|1m|[Mts-WH](https://doi.org/10.1109/TGRS.2016.2642125)|[link](http://sigma.whu.edu.cn/newspage.php?q=2019_03_26)|
 |**Land cover**|**HRSCD**|2019|291|10000×10000|0.5m|[HRSCD](https://doi.org/10.1016/j.cviu.2019.07.003)|[link](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)|
