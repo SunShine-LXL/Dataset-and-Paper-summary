@@ -65,3 +65,18 @@
 |**Building**|**"Tianzhi Cup" artificial intelligence challenge**|2021|**Visible light image building intelligent change detection**|5000|1024×1024|0.5m-0.7m|[link](https://rsaicp.com/portal/contestList)|
 |**Building**|**"Remote Sensing Image Intelligent Interpretation Technology Challenge**|2021|**Building change detection in remote sensing images**|10000|512×512|**_**|[link](https://captain-whu.github.io/PRCV2021_RS/tasks.html)|
 |**Flood**|**SpaceNet8: Flood Detection Challenge**|2022|**Flood Detection Challenge Using Multiclass Segmentation**|12|1300×1300|0.3m-0.8m|[link](https://spacenet.ai/sn8-challenge/)|
+
+
+## CNN-Transformer hybrid-based IB-DLCD methods
+|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|**BIT**|**Sequential integration**|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
+
+
+
+
+
+
+
+
+
