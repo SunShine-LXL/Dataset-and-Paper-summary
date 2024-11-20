@@ -47,6 +47,7 @@
 		<th>横坐标4</th>
 	</tr>
 	<th>横坐标5</th>
+	</tr>
     <tr>
     <td rowspan="6">纵坐标大类</td>
     <td>纵坐标小类1</td>
