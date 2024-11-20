@@ -156,7 +156,13 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |****|****|****|****|[BIT]()|[link]()|
 
+## Active learning Labels IB-DLCD method of efficient learning
+|Abbreviation|Title|Publication|Paper|Code & Weights|
+|:---:|:---:|:---:|:---:|:---:|
+|****|****|****|[BIT]()|[link]()|
 
-
-
+## Weakly-supervised an IB-DLCD method for efficient label learning
+|Abbreviation|Category|Title|Publication|Paper|Code & Weights|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|****|****|****|****|[BIT]()|[link]()|
 
