@@ -18,19 +18,19 @@
     </tr>
      <tr>
     <td>纵坐标小类3</td>
-    <td>provides <a href="https://www.harrisgeospatial.com/docs/ChangeDetectionAnalysis.html" target="_blank">change detection analysis tools</a> and the <a href="https://www.harrisgeospatial.com/Software-Technology/ENVI-Deep-Learning" target="_blank"> ENVI deep learning module</a>.</td>
+    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
      <tr>
     <td>纵坐标小类4</td>
-    <td>can be used for <a href="https://geospatial.trimble.com/products-and-solutions/ecog-essentials-support-cases" target="_blank">a variety of change mapping</a>, and by leveraging deep learning technology from the Google TensorFlow™ library, eCognition empowers customers with highly sophisticated pattern recognition and correlation tools that automate the classification of objects of interest for faster and more accurate results,<a href="https://geospatial.trimble.com/ecognition-whats-new" target="_blank"> more</a>.</td>
+    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
      <tr>
     <td>纵坐标小类5</td>
-    <td> provides <a href="https://support.pcigeomatics.com/hc/en-us/articles/203483499-Change-Detection-Optical" target="_blank">change detection tools</a>, and can be useful in numerous circumstances in which you may want to analyze change, such as: storm damage, forest-fire damage, flooding, urban sprawl, and <a href="https://support.pcigeomatics.com/hc/en-us/articles/203483499-Change-Detection-Optical" target="_blank">more</a>.</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
     <tr>
     <td>纵坐标小类6</td>
-    <td> <a href="https://www.sensetime.com/en/Service/RemoteSensing.html#product" target="_blank">SenseRemote remote sensing intelligent solutions</a></td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
     <tr>
 <table>
