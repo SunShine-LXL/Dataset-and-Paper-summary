@@ -33,18 +33,6 @@
     <td> <a href="https://www.sensetime.com/en/Service/RemoteSensing.html#product" target="_blank">SenseRemote remote sensing intelligent solutions</a></td>
     </tr>
     <tr>
-    <td rowspan="3">Open source</td>
-    <td>QGIS</td>
-    <td>provides many <a href="https://plugins.qgis.org/plugins/tags/change-detection/" target="_blank">change detection tools</a>.</td>
-    </tr>
-     <tr>
-    <td>Orfeo ToolBox</td>
-    <td>change detection by <a href="https://www.orfeo-toolbox.org/CookBook/Applications/Change_Detection.html" target="_blank">multivariate alteration detector (MAD) algorithm</a>.</td>
-    </tr>
-   <tr>
-    <td>Change Detection ToolBox</td>
-    <td><a href="https://github.com/Bobholamovic/ChangeDetectionToolbox" target="_blank">MATLAB toolbox for remote sensing change detection</a>.</td>
-    </tr>
 <table>
 
 
