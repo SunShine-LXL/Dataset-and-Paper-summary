@@ -53,7 +53,7 @@
 |**Building**|**BANDON**|2023|2283|2048×2048|0.6m|[BANDON](https://doi.org/10.1007/s11432-022-3691-4)|[link](https://github.com/fitzpchao/BANDON)|
 |**Landslide**|**GVLM**|2023|17|1748×1748-10808×7424|0.59m|[GVLM](https://doi.org/10.1016/j.isprsjprs.2023.01.018)|[link](https://sagarverma.github.io/qfabric)|
 
-## BCD contest dataset for optical remote sensing images
+## SCD contest dataset for optical remote sensing images
 |Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Webline|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**National Artificial Intelligence Competition**|2020|**AI + Remote sensing track**|**_**|256×256|**_**|[link](https://naic.pcl.ac.cn/landingpage/2020/index.html)|
