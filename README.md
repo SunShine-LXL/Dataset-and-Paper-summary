@@ -71,10 +71,10 @@
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**BIT**|**Sequential integration**|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
-|**UVACD**|****|****|RS2022|[UVACD]()|[link]()|
-|**MTCNet**|****|****|TGRS2021|[MTCNet]()|[link]()|
-|**MSCANet**|****|****|JSTARS2022|[MSCANet]()|[link]()|
-|**GCFormer**|****|****|TGRS2024|[GCFormer]()|[link]()|
+|**UVACD**|**Sequential integration**|****|RS2022|[UVACD]()|[link]()|
+|**MTCNet**|**Sequential integration**|****|TGRS2021|[MTCNet]()|[link]()|
+|**MSCANet**|**Sequential integration**|****|JSTARS2022|[MSCANet]()|[link]()|
+|**GCFormer**|**Sequential integration**|****|TGRS2024|[GCFormer]()|[link]()|
 
 
 
