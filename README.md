@@ -10,7 +10,7 @@
     <tr>
     <td rowspan="6">Commercial</td>
     <td>ERDAS IMAGINE</td>
-    <td>provides true value, consolidating remote sensing, photogrammetry, LiDAR analysis, basic vector analysis, and radar processing into a single product, including a variety of <a href="https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine/erdas-imagine-remote-sensing-software-package" target="_blank">change detection tools</a>.</td>
+    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
     <tr>
     <td>ArcGIS</td>
