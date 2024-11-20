@@ -71,7 +71,7 @@
 |Abbreviation|Category|Title|Publication|Paper|Code & Weights|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**BIT**|**Sequential integration**|**Remote sensing image change detection with transformers**|TGRS2021|[BIT](https://doi.org/10.1109/TGRS.2021.3095166)|[link](https://github.com/justchenhao/BIT_CD)|
-|**UVACD**|**Sequential integration**|****|RS2022|[UVACD]()|[link]()|
+|**UVACD**|**Sequential integration**|**A network combining a transformer and a convolutional neural network for remote sensing image change detection**|RS2022|**_**|[link](https://doi.org/10.3390/rs14092228)|
 |**MTCNet**|**Sequential integration**|****|TGRS2021|[MTCNet]()|[link]()|
 |**MSCANet**|**Sequential integration**|****|JSTARS2022|[MSCANet]()|[link]()|
 |**GCFormer**|**Sequential integration**|****|TGRS2024|[GCFormer]()|[link]()|
