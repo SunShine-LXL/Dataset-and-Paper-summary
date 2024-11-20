@@ -25,10 +25,10 @@
 ## BCD contest dataset for optical remote sensing images
 |Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
+|**Land cover**|**"Shengteng Cup" remote sensing image intelligent processing algorithm competition**|2021|**Remote sensing image change detection**|4194|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/subject_two_2021)|
 |**Land cover**|**Artificial Intelligence Remote sensing Interpretation Competition**|2020|**change detection**|4662|512×512|0.5-3m|[link](https://rs.sensetime.com/)|
 |**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
-|**Land cover**|**"Shengteng Cup" remote sensing image intelligent processing algorithm competition**|2021|**Remote sensing image change detection**|4194|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/subject_two_2021)|
+|**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition**|2021|**Building survey and change detection in high resolution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
 
 ## SCD datasets of optical remote sensing images 
