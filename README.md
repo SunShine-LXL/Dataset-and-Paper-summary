@@ -1,8 +1,7 @@
 ## test
 
-There are currently a large number of software with change detection tools, and we have a brief summary of them, see table 5.
 <table>
-<caption>Table 5. A list of software for change detection.</caption>
+<caption>
 	<tr>
 	    <th>Type</th>
 	    <th>Name</th>
