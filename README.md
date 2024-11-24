@@ -41,7 +41,7 @@
     <th>4932</th>
     <th>512×512</th>
     <th>0.2m</th>
-    <th> <a href="(https://github.com/liaochengcsu/BCE-Net" target="_blank">link</a></th>
+    <th> <a href="https://github.com/liaochengcsu/BCE-Net" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>LEVIR-CC[<a href="https://doi.org/10.1109/TGRS.2022.3218921" target="_blank">paper</a>]</th>
@@ -57,7 +57,7 @@
     <th>20000</th>
     <th>256×256</th>
     <th>0.5m</th>
-    <th> <a href="https://github.com/liumency/SYSU-CD" target="_blank">link</a>.</th>
+    <th> <a href="https://github.com/liumency/SYSU-CD" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>CD_Data_GZ[<a href="https://doi.org/10.1109/TGRS.2020.3011913" target="_blank">paper</a>]</th>
@@ -65,7 +65,7 @@
     <th>19</th>
     <th>1006×1168-4936×5224</th>
     <th>0.55m</th>
-    <td><a href="https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery" target="_blank">link</a></th>
+    <th><a href="https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>DSIFN Dataset[<a href="https://doi.org/10.1016/j.isprsjprs.2020.06.003" target="_blank">paper</a>]</th>
