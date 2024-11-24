@@ -68,7 +68,7 @@
     <td><a href="https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery" target="_blank">link</a></th>
     </tr>
      <tr>
-    <th>DSIFN Dataset[<a https://doi.org/10.1016/j.isprsjprs.2020.06.003" target="_blank">paper</a>]</th>
+    <th>DSIFN Dataset[<a href="https://doi.org/10.1016/j.isprsjprs.2020.06.003" target="_blank">paper</a>]</th>
     <th>2020</th>
     <th>3940</th>
     <th>512×512</th>
