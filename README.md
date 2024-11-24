@@ -15,12 +15,12 @@
 	</tr>
     <tr>
     <th rowspan="13">Building</th>
-    <th>TUE-CD<a href="https://doi.org/10.1109/TGRS.2024.3438290" target="_blank">[paper]</a></th>
+    <th>TUE-CD[<a href="https://doi.org/10.1109/TGRS.2024.3438290" target="_blank">paper</a>]</th>
     <th>2024</th>
     <th>1656</th>
     <th>256×256</th>
     <th>1.8m</th>
-    <th> <a href="https://github.com/RSMagneto/MSI-Net" target="_blank">link</a>.</th>
+    <th> <a href="https://github.com/RSMagneto/MSI-Net" target="_blank">link</a></th>
     </tr>
     <tr>
     <td>EGY-BCD<a href="https://doi.org/10.1109/LGRS.2023.3283505" target="_blank">paper</a>.</th>
