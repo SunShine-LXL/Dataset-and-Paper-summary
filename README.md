@@ -520,6 +520,112 @@
      <tr>
     <table>
 
+
+## test_SCD contest dataset for optical remote sensing images
+<table>
+<caption>
+	<tr>
+	    <th>Target of interest</th>
+	    <th>Event</th>
+            <th>Year</th>	
+	    <th>Track</th>	
+	    <th>Image Pairs</th>
+	    <th>Image size</th>	
+	    <th>Resolution</th>
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="5">Land cover</th>
+    <th>2024 "Jilin-1" Cup Satel-lite Remote Sensing Application Youth Innovation and Entrepreneurship Competition</th>
+    <th>2024</th>
+    <th>High resolution remote sensing image total element change detection</th>
+    <th>5000</th>    
+    <th>512×512</th>
+    <th><0.75m</th>
+    <th> <a href="https://www.jl1mall.com/contest/matchMenu" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>"Jilin-1" Cup Satellite Remote Sensing Application Youth Innovation and Entrepreneurship Compe-tition</th>
+    <th>2023</th>
+    <th>Cultivated land change detection based on high-resolution satellite images</th>
+    <th>8000</th>
+    <th>256×256</th>
+    <th><0.75m</th>
+    <th><a href="https://www.jl1mall.com/contest/match">link</a></th>
+    </tr>
+     <tr>
+    <th>Guofeng East Eye Cup" remote sensing image intelligent processing algorithm competition</th>
+    <th>2023</th>
+    <th>Object level change detection</th>
+    <th>6000+</th>
+    <th>512×512</th>
+    <th>1m-2m</th>
+    <th><a href="http://rsipac.whu.edu.cn/">link</a></th>
+    </tr>
+     <tr>
+    <th>"Space Map Cup" remote sensing image intelligent processing algorithm competition</th>
+    <th>2022</th>
+    <th>Remote sensing image change detection</th>
+    <th>6000+</th>
+    <th>512×512</th>
+    <th>1m-2m</th>
+    <th><a href="http://rsipac.whu.edu.cn/">link</a></th>
+    </tr>
+     <tr>
+    <th>National Artificial Intelligence Competition</th>
+    <th>2020</th>
+    <th>AI + Remote sensing track</th>
+    <th>-</th>
+    <th>256×256</th>
+    <th>-</th>
+    <th><a href="https://naic.pcl.ac.cn/landingpage/2020/index.html">link</a></th>
+    </tr>
+     <tr>
+<caption>
+    <tr>
+    <th rowspan="3">Building</th>
+    <td rowspan="2">6000+</td>
+    <th>"Remote Sensing Image Intelligent Interpretation Technology Challenge</th>
+    <th>2021</th>
+    <th>Building change detection in remote sensing images</th>
+    <th>10000</th>
+    <th>512×512</th>
+    <th>-</th>
+    <th><a href="https://captain-whu.github.io/PRCV2021_RS/tasks.html" target="_blank">link</a></th>
+    </tr>
+     <tr>	     
+    <th>"Tianzhi Cup" artificial intelligence challenge</th>
+    <th>2021</th>
+    <th>Visible light image building intelligent change detection</th>
+    <th>5000</th>
+    <th>1024×1024</th>
+    <th>0.5m-0.7m</th>
+    <th><a href="https://rsaicp.com/portal/contestList" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>xView2 Challenge</th>
+    <th>2019</th>
+    <th>Building Damage Assessment</th>
+    <th>11034</th>
+    <th>1024×1024</th>
+    <th><0.8m</th>
+    <th><a href="https://xview2.org/dataset" target="_blank">link</a></th>
+    </tr>
+     <tr>	     
+    <th rowspan="1">Flood</th>
+    <th>SpaceNet8: Flood Detection Challenge</th>
+    <th>2022</th>
+    <th>Flood Detection Challenge Using Multiclass Segmentation</th>
+    <th>12</th>
+    <th>1300×1300</th>
+    <th>0.3m-0.8m</th>
+    <th><a href="https://spacenet.ai/sn8-challenge/" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <table>
+
+
+
 ## CNN-based IB-DLCD methods
 |Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
