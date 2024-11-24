@@ -88,7 +88,6 @@
      <tr>
 <caption>
     <tr>
-    <td rowspan="1">纵坐标大类</td>
     <td>纵坐标小类1</td>
     <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
