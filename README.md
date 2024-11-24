@@ -155,6 +155,7 @@
     </tr>
      <tr>
 <caption>
+    <tr>
     <td rowspan="1">Mine</td>
     <td>MineNetCD<a href="https://doi.org/10.48550/arXiv.2407.03971" target="_blank">paper</a>.</td>
     <td>2024<td>
