@@ -119,7 +119,6 @@
     <td> <a href="https://github.com/gistairc/ABCDdataset" target="_blank">link</a>.</th>
     </tr>
      <tr>
-<caption>
     </tr>
      <tr>
     <td rowspan="4">Land cover</td>
