@@ -76,9 +76,21 @@
     <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
     <tr>
+    <td>纵坐标小类7</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
+    <td>纵坐标小类8</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
+    <td>纵坐标小类9</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
 <caption>
     <tr>
-    <td rowspan="6">纵坐标大类</td>
+    <td rowspan="4">纵坐标大类</td>
     <td>纵坐标小类1</td>
     <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
@@ -95,14 +107,6 @@
     <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
      <tr>
-    <td>纵坐标小类5</td>
-    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-    <tr>
-    <td>纵坐标小类6</td>
-    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-    <tr>	
 <table>
 
 
