@@ -515,6 +515,129 @@
      <tr>
     <table>
 
+## CNN-based IB-DLCD methods
+<table>
+<caption>
+	<tr>
+	    <th>Category</th>
+	    <th>Abbreviation</th>
+            <th>Title</th>	
+	    <th>Publication</th>	
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="4">Early fusion</th>
+    <th>Res2-Unet[<a href="https://doi.org/10.1109/JSTARS.2022.3146430" target="_blank">paper</a>]</th>
+    <th>Res2-Unet, a new deep architecture for building detection from high spatial resolution images</th>
+    <th>CVIU2019</th>
+    <th> <a href="https://github.com/yubozuzu123/res2-unet" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>FC-EF-Res[<a href="https://doi.org/10.1016/j.cviu.2019.07.003" target="_blank">paper</a>]</th>
+    <th>Multitask learning for large-scale semantic change detection</th>
+    <th></th>
+    <th> <a href="https://github.com/rcdaudt/fully_convolutional_change_detection" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>UNet++_MSOF[<a href="https://doi.org/10.3390/rs11111382" target="_blank">paper</a>]</th>
+    <th>End-to-end change detection for high resolution satellite images using improved UNet++</th>
+    <th>RS2019</th>
+    <th> <a href="https://github.com/daifeng2016/End-to-end-CD-for-VHR-satellite-image" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>FC-EF[<a href="https://doi.org/10.1109/ICIP.2018.8451652" target="_blank">paper</a>]</th>
+    <th>Fully convolutional siamese networks for change detection</th>
+    <th>ICIP2018</th>
+    <th> <a href="https://github.com/rcdaudt/fully_convolutional_change_detection" target="_blank">link</a></th>
+    </tr>
+     <tr>     
+<caption>
+    <tr>
+    <th rowspan="10">Middle fusion</th>
+    <th>DESNet[<a href="https://doi.org/10.1109/LGRS.2023.3310676" target="_blank">paper</a>]</th>
+    <th>A Difference Enhanced Neural Network for Semantic Change Detection of Remote Sensing Images</th>
+    <th>GRSL2023</th>
+    <th>-</th>
+    </tr>
+     <tr>    
+    <th>EGPNet[<a href="https://doi.org/10.1109/JSTARS.2023.3306274" target="_blank">paper</a>]</th>
+    <th>Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection</th>
+    <th>JSTARS2023</th>
+    <th> <a href="https://github.com/Lvkyky/EGPNet" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>Bi-SRNet[<a href="https://doi.org/10.1109/TGRS.2022.3154390" target="_blank">paper</a>]</th>
+    <th>Bi-temporal semantic reasoning for the semantic change detection in HR remote sensing images</th>
+    <th>TGRS2022</th>
+    <th> <a href="https://github.com/DingLei14/Bi-SRNet" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>P2V-CD[<a href="https://doi.org/10.1109/TIP.2022.3226418" target="_blank">paper</a>]</th>
+    <th>Transition is a process: Pair-to-video change detection networks for very high resolution remote sensing images</th>
+    <th>TIP2022</th>
+    <th> <a href="https://github.com/Bobholamovic/CDLab" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>SMD-Net[<a href="https://doi.org/10.3390/rs14071580" target="_blank">paper</a>]</th>
+    <th>SMD-Net: Siamese multi-scale difference-enhancement network for change detection in remote sensing</th>
+    <th>RS2022</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>BASNet[<a href="https://doi.org/10.1109/LGRS.2021.3119885" target="_blank">paper</a>]</th>
+    <th>BASNet: A Boundary-Aware Siamese Network for Accurate Remote-Sensing Change Detection</th>
+    <th>GRSL2021</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>DSNet[<a href="https://doi.org/10.3390/rs13173394" target="_blank">paper</a>]</th>
+    <th>Deep Siamese Networks Based Change Detection with Remote Sensing Images</th>
+    <th>RS2021</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>SNUNet-CD[<a href="https://doi.org/10.1109/LGRS.2021.3056416" target="_blank">paper</a>]</th>
+    <th>SNUNet-CD: A densely connected Siamese network for change detection of VHR images</th>
+    <th>GRSL2021</th>
+    <th> <a href="https://github.com/likyoo/Siam-NestedUNet" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>FC-Siam-conc[<a href="https://doi.org/10.1109/ICIP.2018.8451652" target="_blank">paper</a>]</th>
+    <th rowspan="2">Fully convolutional siamese networks for change detection</th>
+    <th rowspan="2">ICIP2018</th>
+    <th rowspan="2"><a href="https://github.com/rcdaudt/fully_convolutional_change_detection" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>FC-Siam-diff[<a href="https://doi.org/10.1109/ICIP.2018.8451652" target="_blank">paper</a>]</th>
+    </tr>
+     <tr>
+     
+<caption>
+    <tr>
+    <th rowspan="3">Late fusion</th>
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <table>
+
+
+
+
 
 
 ## CNN-based IB-DLCD methods
