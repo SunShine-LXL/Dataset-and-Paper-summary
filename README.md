@@ -560,13 +560,12 @@
     <th rowspan="2">6000+</th>
     <th rowspan="2">512×512</th>    
     <th rowspan="2">1m-2m</th>
-    <th><a href="http://rsipac.whu.edu.cn/">link</a></th>
+    <th rowspan="2"><a href="http://rsipac.whu.edu.cn/">link</a></th>
     </tr>
      <tr>
     <th>"Space Map Cup" remote sensing image intelligent processing algorithm competition</th>
     <th>2022</th>
     <th>Remote sensing image change detection</th>
-    <th><a href="http://rsipac.whu.edu.cn/">link</a></th>
     </tr>
      <tr>
     <th>National Artificial Intelligence Competition</th>
