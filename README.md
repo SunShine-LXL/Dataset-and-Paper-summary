@@ -177,9 +177,6 @@
     <td><a href="https://github.com/liumency/CropLand-CD" target="_blank">link</a>.</td>
     </tr>
     <tr>
-
-    </tr>
-     <tr>
     <td >Riverway</td>
     <td>The River Data Set<a href="https://doi.org/10.1109/TGRS.2018.2849692" target="_blank">paper</a>.</td>
     <td>2019</td>
