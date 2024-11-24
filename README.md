@@ -218,6 +218,18 @@
 |**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition**|2021|**Building survey and change detection in high resolution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
+<caption>
+    <tr>
+    <td rowspan="1">Building</td>
+    <td>The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition</td>
+    <td>2021</td>
+    <td>Building survey and change detection in high resolution visible light images</td>
+    <td>256×256</td>
+    <td>1.2m</td>
+    <td><a href="https://huggingface.co/datasets/ericyu/MineNetCD256" target="_blank">link</a>.</td>
+    </tr>
+     <tr>
+
 
 ## SCD datasets of optical remote sensing images 
 |Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Paper|Website|
