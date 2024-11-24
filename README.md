@@ -183,7 +183,7 @@
      <tr>
 <table>
 	
-## BCD datasets of optical remote sensing images 
+
 |Target of interest|Datasets|Year|Image Pairs|Image size|Resolution|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Building**|**TUE-CD**|2024|1656|256×256|1.8m|[TUE-CD](https://doi.org/10.1109/TGRS.2024.3438290)|[link](https://github.com/RSMagneto/MSI-Net)|
@@ -208,11 +208,75 @@
 |**Riverway**|**The River Data Set**|2019|1|463×241|30m|[The River Data Set](https://doi.org/10.1109/TGRS.2018.2849692)|[link](https://share.weiyun.com/5xdge4R)|
 
 ## BCD contest dataset for optical remote sensing images
+<table>
+<caption>
+	<tr>
+	    <th>Target of interest</th>
+	    <th>Event</th>
+            <th>Year</th>	
+	    <th>Track</th>	
+	    <th>Image Pairs</th>
+	    <th>Image size</th>	
+	    <th>Resolution</th>
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="4">Land cover</th>
+    <th>"Shengteng Cup" remote sensing image intelligent processing algorithm competition</th>
+    <th>2021</th>
+    <th>Remote sensing image change detection</th>
+    <th>4194</th>    
+    <th>512×512</th>
+    <th>1m-2m</th>
+    <th> <a href="http://rsipac.whu.edu.cn/subject_two_2021" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>Artificial Intelligence Remote sensing Interpretation Competition</th>
+    <th>2020</th>
+    <th>change detection</th>
+    <th>4662</th>
+    <th>512×512</th>
+    <th>0.5-3m</th>
+    <th><a href="https://rs.sensetime.com/">link</a></th>
+    </tr>
+     <tr>
+    <th>SN7: Multi-Temporal Urban Development Challenge</th>
+    <th>2020</th>
+    <th>Multi-Temporal Urban Development Challenge</th>
+    <th>12</th>
+    <th>1024×1024</th>
+    <th>4m</th>
+    <th><a href="https://spacenet.ai/sn7-challenge/">link</a></th>
+    </tr>
+     <tr>
+    <th>Remote sensing image sparse characterization and intelligent Processing algorithm competition</th>
+    <th>2019</th>
+    <th>Remote sensing image change detection</th>
+    <th>103</th>
+    <th>960×960</th>
+    <th>-</th>
+    <th><a href="https://autdatamotion.github.io/RSC2019/#/home">link</a></th>
+    </tr>
+     <tr>
+<caption>
+    <tr>
+    <th rowspan="1">Building</th>
+    <th>The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition</th>
+    <th>2021</th>
+    <th>Building survey and change detection in high resolution visible light images</th>
+    <th>2000</th>
+    <th>512×512</th>
+    <th>2m</th>
+    <th><a href="https://www.gaofen-challenge.com/challenge" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <table>
+
 |Target of interest|Event|Year|Track|Image Pairs|Image size|Resolution|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Land cover**|**"Shengteng Cup" remote sensing image intelligent processing algorithm competition**|2021|**Remote sensing image change detection**|4194|512×512|1m-2m|[link](http://rsipac.whu.edu.cn/subject_two_2021)|
 |**Land cover**|**Artificial Intelligence Remote sensing Interpretation Competition**|2020|**change detection**|4662|512×512|0.5-3m|[link](https://rs.sensetime.com/)|
-|**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
+|**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://spacenet.ai/sn7-challenge/)|
 |**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition**|2021|**Building survey and change detection in high resolution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
 
