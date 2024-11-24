@@ -15,7 +15,7 @@
 	</tr>
     <tr>
     <th rowspan="13">Building</th>
-    <th>TUE-CD<a href="https://doi.org/10.1109/TGRS.2024.3438290" target="_blank">paper</a>.</th>
+    <th>TUE-CD<a href="https://doi.org/10.1109/TGRS.2024.3438290" target="_blank">paper</a>.</td>
     <th>2024</th>
     <th>1656</th>
     <th>256×256</th>
