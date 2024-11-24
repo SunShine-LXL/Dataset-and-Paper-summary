@@ -104,7 +104,7 @@
     <th>2018</th>
     <th>16000</th>
     <th>256×256</th>
-    <th>0.03m-1m</th>
+    <th>0.03-1m</th>
     <th><a href="https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit" target="_blank">link</a></th>
     </tr>
      <tr>
@@ -168,7 +168,7 @@
     <th>2022</th>
     <th>600</th>
     <th>512×512</th>
-    <th>0.5m-2m</th>
+    <th>0.5-2m</th>
     <th><a href="https://github.com/liumency/CropLand-CD" target="_blank">link</a></th>
     </tr>
      <tr>
@@ -205,7 +205,7 @@
     <th>Remote sensing image change detection</th>
     <th>4194</th>    
     <th>512×512</th>
-    <th>1m-2m</th>
+    <th>1-2m</th>
     <th> <a href="http://rsipac.whu.edu.cn/subject_two_2021" target="_blank">link</a></th>
     </tr>
      <tr>
@@ -214,7 +214,7 @@
     <th>change detection</th>
     <th>4662</th>
     <th>512×512</th>
-    <th>0.5m-3m</th>
+    <th>0.5-3m</th>
     <th><a href="https://rs.sensetime.com/">link</a></th>
     </tr>
      <tr>
@@ -268,7 +268,7 @@
     <th>2024</th>
     <th>4141</th>
     <th>512×512</th>
-    <th>0.5m-2m</th>
+    <th>0.5-2m</th>
     <th> <a href="https://github.com/lsmlyn/CropSCD" target="_blank">link</a></th>
     </tr>
     <tr>
@@ -392,7 +392,7 @@
     <th>2021</th>
     <th>2520</th>
     <th>120×120-12000×12000</th>
-    <th>0.31m-0.7m</th>
+    <th>0.31-0.7m</th>
     <th><a href="https://sagarverma.github.io/qfabric" target="_blank">link</a></th>
     </tr>
      <tr>
@@ -400,7 +400,7 @@
     <th>2021</th>
     <th>5000</th>
     <th>1024×1024</th>
-    <th>0.5m-0.8m</th>
+    <th>0.5-0.8m</th>
     <th><a href="https://github.com/S2Looking/Dataset" target="_blank">link</a></th>
     </tr>
      <tr>
@@ -455,7 +455,7 @@
     <th>Object level change detection</th>
     <th rowspan="2">6000+</th>
     <th rowspan="2">512×512</th>    
-    <th rowspan="2">1m-2m</th>
+    <th rowspan="2">1-2m</th>
     <th rowspan="2"><a href="http://rsipac.whu.edu.cn/">link</a></th>
     </tr>
      <tr>
@@ -490,7 +490,7 @@
     <th>Visible light image building intelligent change detection</th>
     <th>5000</th>
     <th>1024×1024</th>
-    <th>0.5m-0.7m</th>
+    <th>0.5-0.7m</th>
     <th><a href="https://rsaicp.com/portal/contestList" target="_blank">link</a></th>
     </tr>
      <tr>
@@ -509,7 +509,7 @@
     <th>Flood Detection Challenge Using Multiclass Segmentation</th>
     <th>12</th>
     <th>1300×1300</th>
-    <th>0.3m-0.8m</th>
+    <th>0.3-0.8m</th>
     <th><a href="https://spacenet.ai/sn8-challenge/" target="_blank">link</a></th>
     </tr>
      <tr>
