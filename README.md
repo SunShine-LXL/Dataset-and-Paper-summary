@@ -23,165 +23,165 @@
     <th> <a href="https://github.com/RSMagneto/MSI-Net" target="_blank">link</a></th>
     </tr>
     <tr>
-    <td>EGY-BCD<a href="https://doi.org/10.1109/LGRS.2023.3283505" target="_blank">paper</a>.</th>
-    <td>2023</th>
-    <td>6091</th>
-    <td>256×256</th>
-    <td>0.25m</th>
-    <td> <a href="https://github.com/oshholail/EGY-BCD" target="_blank">link</a>.</th>
+    <th>EGY-BCD[<a href="https://doi.org/10.1109/LGRS.2023.3283505" target="_blank">paper</a>]</th>
+    <th>2023</th>
+    <th>6091</th>
+    <th>256×256</th>
+    <th>0.25m</th>
+    <th> <a href="https://github.com/oshholail/EGY-BCD" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>HRCUS-CD<a href="https://doi.org/10.1109/TGRS.2023.3300533" target="_blank">paper</a>.</th>
-    <td>2023</th>
-    <td>11388</th>
-    <td>256×256</th>
-    <td>0.5m</th>
-    <td> <a href="https://github.com/zjd1836/AERNet" target="_blank">link</a>.</th>
+    <th>HRCUS-CD[<a href="https://doi.org/10.1109/TGRS.2023.3300533" target="_blank">paper</a>]</th>
+    <th>2023</th>
+    <th>11388</th>
+    <th>256×256</th>
+    <th>0.5m</th>
+    <th> <a href="https://github.com/zjd1836/AERNet" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>SI-BU dataset<a href="https://doi.org/10.1016/j.isprsjprs.2023.05.011" target="_blank">paper</a>.</th>
-    <td>2023</th>
-    <td>4932</th>
-    <td>512×512</th>
-    <td>0.2m</th>
-    <td> <a href="(https://github.com/liaochengcsu/BCE-Net" target="_blank">link</a>.</th>
+    <th>SI-BU dataset[<a href="https://doi.org/10.1016/j.isprsjprs.2023.05.011" target="_blank">paper</a>]</th>
+    <th>2023</th>
+    <th>4932</th>
+    <th>512×512</th>
+    <th>0.2m</th>
+    <th> <a href="(https://github.com/liaochengcsu/BCE-Net" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>LEVIR-CC<a href="https://doi.org/10.1109/TGRS.2022.3218921" target="_blank">paper</a>.</th>
-    <td>2022</th>
-    <td>10077</th>
-    <td>1024×1024</th>
-    <td>0.5m</th>
-    <td> <a href="https://github.com/Chen-Yang-Liu/RSICC" target="_blank">link</a>.</th>
+    <th>LEVIR-CC[<a href="https://doi.org/10.1109/TGRS.2022.3218921" target="_blank">paper</a>]</th>
+    <th>2022</th>
+    <th>10077</th>
+    <th>1024×1024</th>
+    <th>0.5m</th>
+    <th> <a href="https://github.com/Chen-Yang-Liu/RSICC" target="_blank">link</a></th>
     </tr>
     <tr>
-    <td>SYSU-CD<a href="https://doi.org/10.1109/TGRS.2021.3085870" target="_blank">paper</a>.</th>
-    <td>2021</th>
-    <td>20000</th>
-    <td>256×256</th>
-    <td>0.5m</th>
-    <td> <a href="https://github.com/liumency/SYSU-CD" target="_blank">link</a>.</th>
+    <th>SYSU-CD[<a href="https://doi.org/10.1109/TGRS.2021.3085870" target="_blank">paper</a>]</th>
+    <th>2021</th>
+    <th>20000</th>
+    <th>256×256</th>
+    <th>0.5m</th>
+    <th> <a href="https://github.com/liumency/SYSU-CD" target="_blank">link</a>.</th>
     </tr>
      <tr>
-    <td>CD_Data_GZ <a href="https://doi.org/10.1109/TGRS.2020.3011913" target="_blank">paper</a>.</th>
-    <td>2020</th>
-    <td>19</th>
-    <td>1006×1168-4936×5224</th>
-    <td>0.55m</th>
-    <td> <a href="https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery" target="_blank">link</a>.</th>
+    <th>CD_Data_GZ[<a href="https://doi.org/10.1109/TGRS.2020.3011913" target="_blank">paper</a>]</th>
+    <th>2020</th>
+    <th>19</th>
+    <th>1006×1168-4936×5224</th>
+    <th>0.55m</th>
+    <td><a href="https://github.com/daifeng2016/Change-Detection-Dataset-for-High-Resolution-Satellite-Imagery" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>DSIFN Dataset <a https://doi.org/10.1016/j.isprsjprs.2020.06.003" target="_blank">paper</a>.</th>
-    <td>2020</th>
-    <td>3940</th>
-    <td>512×512</th>
-    <td>-</th>
-    <td> <a href="https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset" target="_blank">link</a>.</th>
+    <th>DSIFN Dataset[<a https://doi.org/10.1016/j.isprsjprs.2020.06.003" target="_blank">paper</a>]</th>
+    <th>2020</th>
+    <th>3940</th>
+    <th>512×512</th>
+    <th>-</th>
+    <th><a href="https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset" target="_blank">link</a></th>
     </tr>
     <tr>
-    <td>LEVIR-CD<a href="https://doi.org/10.3390/rs12101662" target="_blank">paper</a>.</th>
-    <td>2020</th>
-    <td>637</th>
-    <td>1024×1024</th>
-    <td>0.5m</th>
-    <td> <a href="https://justchenhao.github.io/LEVIR/" target="_blank">link</a>.</th>
+    <th>LEVIR-CD[<a href="https://doi.org/10.3390/rs12101662" target="_blank">paper</a>]</th>
+    <th>2020</th>
+    <th>637</th>
+    <th>1024×1024</th>
+    <th>0.5m</th>
+    <th><a href="https://justchenhao.github.io/LEVIR/" target="_blank">link</a></th>
     </tr>
     <tr>
-    <td>LEVIR-CD+<a href="https://doi.org/10.3390/rs13245094" target="_blank">paper</a>.</th>
-    <td>2020</th>
-    <td>1970</th>
-    <td>1024×1024</th>
-    <td>0.5m</th>
-    <td> <a href="https://github.com/S2Looking/Dataset" target="_blank">link</a>.</th>
+    <th>LEVIR-CD+[<a href="https://doi.org/10.3390/rs13245094" target="_blank">paper</a>]</th>
+    <th>2020</th>
+    <th>1970</th>
+    <th>1024×1024</th>
+    <th>0.5m</th>
+    <th><a href="https://github.com/S2Looking/Dataset" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>WHU Building CD<a href="https://doi.org/10.1109/TGRS.2018.2858817" target="_blank">paper</a>.</th>
-    <td>201+</th>
-    <td>1</th>
-    <td>32507×15354</th>
-    <td>0.2m</th>
-    <td> <a href="https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html" target="_blank">link</a>.</th>
+    <th>WHU Building CD[<a href="https://doi.org/10.1109/TGRS.2018.2858817" target="_blank">paper</a>]</th>
+    <th>2019</th>
+    <th>1</th>
+    <th>32507×15354</th>
+    <th>0.2m</th>
+    <th><a href="https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>CDD Dataset<a href="https://doi.org/10.5194/isprs-archives-XLII-2-565-2018" target="_blank">paper</a>.</th>
-    <td>2018</th>
-    <td>16000</th>
-    <td>256×256</th>
-    <td>0.03m-1m</th>
-    <td> <a href="https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit" target="_blank">link</a>.</th>
+    <th>CDD Dataset[<a href="https://doi.org/10.5194/isprs-archives-XLII-2-565-2018" target="_blank">paper</a>]</th>
+    <th>2018</th>
+    <th>16000</th>
+    <th>256×256</th>
+    <th>0.03m-1m</th>
+    <th><a href="https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>ABCD<a href="https://doi.org/10.23919/MVA.2017.7986759" target="_blank">paper</a>.</th>
-    <td>2017</th>
-    <td>16950</th>
-    <td>128×128</th>
-    <td>0.4m</th>
-    <td> <a href="https://github.com/gistairc/ABCDdataset" target="_blank">link</a>.</th>
+    <th>ABCD[<a href="https://doi.org/10.23919/MVA.2017.7986759" target="_blank">paper</a>]</th>
+    <th>2017</th>
+    <th>16950</th>
+    <th>128×128</th>
+    <th>0.4m</th>
+    <th><a href="https://github.com/gistairc/ABCDdataset" target="_blank">link</a></th>
     </tr>
      <tr>
     <caption>
     </tr>
      <tr>
-    <td rowspan="4">Land cover</td>
-    <td>TZ-CD<a href="https://doi.org/10.3390/rs15051219" target="_blank">paper</a>.</th>
-    <td>2023</th>
-    <td>1</th>
-    <td>30307×40620</th>
-    <td>1m</th>
-    <td>-</th>
+    <th rowspan="4">Land cover</th>
+    <th>TZ-CD[<a href="https://doi.org/10.3390/rs15051219" target="_blank">paper</a>]</th>
+    <th>2023</th>
+    <th>1</th>
+    <th>30307×40620</th>
+    <th>1m</th>
+    <th>-</th>
     </tr>
      <tr>
-    <td>BTCDD<a href="https://doi.org/10.1016/j.jag.2021.102597" target="_blank">paper</a>.</th>
-    <td>2021</th>
-    <td>5281</th>
-    <td>256×256</th>
-    <td>-</th>
-    <td>-</th>
+    <th>BTCDD[<a href="https://doi.org/10.1016/j.jag.2021.102597" target="_blank">paper</a>]</th>
+    <th>2021</th>
+    <th>5281</th>
+    <th>256×256</th>
+    <th>-</th>
+    <th>-</th>
     </tr>
      <tr>
-    <td>ZY3<a href="https://doi.org/10.1109/TGRS.2020.2981051" target="_blank">paper</a>.</th>
-    <td>2017</th>
-    <td>1</th>
-    <td>458×559</th>
-    <td>5.8m</th>
-    <td> <a href="http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/" target="_blank">link</a>.</th>
+    <th>ZY3[<a href="https://doi.org/10.1109/TGRS.2020.2981051" target="_blank">paper</a>]</th>
+    <th>2017</th>
+    <th>1</th>
+    <th>458×559</th>
+    <th>5.8m</th>
+    <th><a href="http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td>AICD<a href="https://ieeexplore.ieee.org/document/6050150" target="_blank">paper</a>.</th>
-    <td>2011</th>
-    <td>1000</th>
-    <td>800×600</th>
-    <td>0.5m</th>
-    <td>-</th>
+    <th>AICD[<a href="https://ieeexplore.ieee.org/document/6050150" target="_blank">paper</a>]</th>
+    <th>2011</th>
+    <th>1000</th>
+    <th>800×600</th>
+    <th>0.5m</th>
+    <th>-</th>
     </tr>
      <tr>
 <caption>
     <tr>
-    <td rowspan="1">Mine</td>
-    <td>MineNetCD<a href="https://doi.org/10.48550/arXiv.2407.03971" target="_blank">paper</a>.</td>
-    <td>2024</td>
-    <td>71711</td>
-    <td>256×256</td>
-    <td>1.2m</td>
-    <td><a href="https://huggingface.co/datasets/ericyu/MineNetCD256" target="_blank">link</a>.</td>
+    <th rowspan="1">Mine</th>
+    <th>MineNetCD[<a href="https://doi.org/10.48550/arXiv.2407.03971" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>71711</th>
+    <th>256×256</th>
+    <th>1.2m</th>
+    <th><a href="https://huggingface.co/datasets/ericyu/MineNetCD256" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td rowspan="1">Cropland</td>
-    <td>CLCD<a href="https://doi.org/10.1109/JSTARS.2022.3177235" target="_blank">paper</a>.</td>
-    <td>2022</td>
-    <td>600</td>
-    <td>512×512</td>
-    <td>0.5m-2m</td>
-    <td><a href="https://github.com/liumency/CropLand-CD" target="_blank">link</a>.</td>
+    <th rowspan="1">Cropland</th>
+    <th>CLCD[<a href="https://doi.org/10.1109/JSTARS.2022.3177235" target="_blank">paper</a>]</td>
+    <th>2022</th>
+    <th>600</th>
+    <th>512×512</th>
+    <th>0.5m-2m</th>
+    <th><a href="https://github.com/liumency/CropLand-CD" target="_blank">link</a></th>
     </tr>
      <tr>
-    <td rowspan="1">Riverway</td>
-    <td>The River Data Set<a href="https://doi.org/10.1109/TGRS.2018.2849692" target="_blank">paper</a>.</td>
-    <td>2019</td>
-    <td>1</td>
-    <td>463×241</td>
-    <td>30m</td>
-    <td><a href="https://share.weiyun.com/5xdge4R" target="_blank">link</a>.</td>
+    <th rowspan="1">Riverway</th>
+    <th>The River Data Set[a href="https://doi.org/10.1109/TGRS.2018.2849692" target="_blank">paper</a>]</th>
+    <th>2019</th>
+    <th>1</th>
+    <th>463×241</th>
+    <th>30m</th>
+    <th><a href="https://share.weiyun.com/5xdge4R" target="_blank">link</a></th>
     </tr>
      <tr>
 <table>
@@ -218,17 +218,7 @@
 |**Land cover**|**SN7: Multi-Temporal Urban Development Challenge**|2020|**Multi-Temporal Urban Development Challenge**|12|1024×1024|4m|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Land cover**|**Remote sensing image sparse characterization and intelligent Processing algorithm competition**|2019|**Remote sensing image change detection**|103|960×960|**_**|[link](https://autdatamotion.github.io/RSC2019/#/home)|
 |**Building**|**The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition**|2021|**Building survey and change detection in high resolution visible light images**|2000|512×512|2m|[link](https://www.gaofen-challenge.com/challenge)|
-<caption>
-    <tr>
-    <td rowspan="1">Building</td>
-    <td>The 5th "Sino-Keke Star Map Cup" International high-resolution remote sensing image interpretation Competition</td>
-    <td>2021</td>
-    <td>Building survey and change detection in high resolution visible light images</td>
-    <td>256×256</td>
-    <td>1.2m</td>
-    <td><a href="https://huggingface.co/datasets/ericyu/MineNetCD256" target="_blank">link</a>.</td>
-    </tr>
-     <tr>
+
 
 
 ## SCD datasets of optical remote sensing images 
