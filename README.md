@@ -557,7 +557,7 @@
     <th>Guofeng East Eye Cup" remote sensing image intelligent processing algorithm competition</th>
     <th>2023</th>
     <th>Object level change detection</th>
-    <th>6000+</th>
+    <td rowspan="2">6000+</td>
     <th>512×512</th>
     <th>1m-2m</th>
     <th><a href="http://rsipac.whu.edu.cn/">link</a></th>
@@ -584,7 +584,6 @@
 <caption>
     <tr>
     <th rowspan="3">Building</th>
-    <td rowspan="2">6000+</td>
     <th>"Remote Sensing Image Intelligent Interpretation Technology Challenge</th>
     <th>2021</th>
     <th>Building change detection in remote sensing images</th>
