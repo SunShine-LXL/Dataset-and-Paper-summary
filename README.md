@@ -155,8 +155,6 @@
     <td>-</th>
     </tr>
      <tr>
-<caption>
-    <tr>
     <td rowspan="1">Mine</td>
     <td>MineNetCD<a href="https://doi.org/10.48550/arXiv.2407.03971" target="_blank">paper</a>.</td>
     <td>2024</td>
@@ -165,8 +163,6 @@
     <td>1.2m</td>
     <td><a href="https://huggingface.co/datasets/ericyu/MineNetCD256" target="_blank">link</a>.</td>
     </tr>
-    <tr>
-<caption>
     <tr>
     <td rowspan="1">Cropland</td>
     <td>CLCD<a href="https://doi.org/10.1109/JSTARS.2022.3177235" target="_blank">paper</a>.</td>
