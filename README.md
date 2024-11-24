@@ -637,9 +637,9 @@
     <table>
 
 ## Attention-based IB-DLCD methods
-|Abbreviation|Title|Publication|Paper|Website|
-|:---:|:---:|:---:|:---:|:---:|
-|**A2Net**[paper](https://doi.org/10.1109/TGRS.2023.3241436)|**Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention**|**TGRS2023**|**[link](https://github.com/guanyuezhen/A2Net)**|
+|Abbreviation|Title|Publication|Website|
+|:---:|:---:|:---:|:---:|
+|**A2Net[[paper](https://doi.org/10.1109/TGRS.2023.3241436)]**|**Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention**|**TGRS2023**|**[link](https://github.com/guanyuezhen/A2Net)**|
 |**DMINet**|**Change detection on remote sensing images using dual-branch multilevel intertemporal network**|TGRS2023|[DMINet](https://doi.org/10.1109/TGRS.2023.3241257)|[link](https://github.com/ZhengJianwei2/DMINet)|
 |**GAS-Net**|**Global-aware siamese network for change detection on remote sensing images**|JPRS2023|[GAS-Net](https://doi.org/10.1016/j.isprsjprs.2023.04.001)|[link](https://github.com/xiaoxiangAQ/GAS-Net)|
 |**USSFC-Net**|**Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images**|TGRS2023|[USSFC-Net](https://doi.org/10.1109/TGRS.2023.3261273)|[link](https://github.com/SUST-reynole/USSFC-Net)|
