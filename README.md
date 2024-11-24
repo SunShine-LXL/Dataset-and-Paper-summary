@@ -176,7 +176,7 @@
     </tr>
      <tr>
     <th rowspan="1">Riverway</th>
-    <th>The River Data Set[a href="https://doi.org/10.1109/TGRS.2018.2849692" target="_blank">paper</a>]</th>
+    <th>The River Data Set[<a href="https://doi.org/10.1109/TGRS.2018.2849692" target="_blank">paper</a>]</th>
     <th>2019</th>
     <th>1</th>
     <th>463×241</th>
