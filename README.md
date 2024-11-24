@@ -110,7 +110,6 @@
     <td> <a href="https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit" target="_blank">link</a>.</th>
     </tr>
      <tr>
-    <td>纵坐标小类13</td>
     <td>ABCD<a href="https://doi.org/10.23919/MVA.2017.7986759" target="_blank">paper</a>.</th>
     <td>2017</th>
     <td>16950</th>
