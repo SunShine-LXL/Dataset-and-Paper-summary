@@ -1,6 +1,3 @@
-##
-</th>居中
-</td>居左
 ## BCD datasets of optical remote sensing images 
 <table>
 <caption>
