@@ -508,8 +508,6 @@
     <th><a href="https://xview2.org/dataset" target="_blank">link</a></th>
     </tr>
      <tr>	     
-<caption>
-    <tr>
     <th rowspan="1">Flood</th>
     <th>SpaceNet8: Flood Detection Challenge</th>
     <th>2022</th>
