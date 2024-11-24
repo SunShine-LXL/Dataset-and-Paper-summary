@@ -1,40 +1,3 @@
-## test
-
-<table>
-<caption>
-	<tr>
-	    <th>横坐标1</th>
-	    <th>横坐标2</th>
-        <th>横坐标3</th>
-	</tr>
-    <tr>
-    <td rowspan="6">纵坐标大类</td>
-    <td>纵坐标小类1</td>
-    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-    <tr>
-    <td>纵坐标小类2</td>
-    <td> 描述 <a href="链接" target="_blank">链接文字</a> or <a href="链接" target="_blank">链接文字</a>. </td>
-    </tr>
-     <tr>
-    <td>纵坐标小类3</td>
-    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-     <tr>
-    <td>纵坐标小类4</td>
-    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-     <tr>
-    <td>纵坐标小类5</td>
-    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-    <tr>
-    <td>纵坐标小类6</td>
-    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
-    </tr>
-    <tr>
-<table>
-
 ## BCD datasets of optical remote sensing images 
 <table>
 <caption>
@@ -88,6 +51,22 @@
     <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
     <tr>
+    <td>纵坐标小类10</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
+    <td>纵坐标小类11</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
+    <td>纵坐标小类12</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
+    <td>纵坐标小类13</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
 <caption>
     <tr>
     <td rowspan="4">纵坐标大类</td>
@@ -104,6 +83,23 @@
     </tr>
      <tr>
     <td>纵坐标小类4</td>
+    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+     <tr>
+<caption>
+    <tr>
+    <td rowspan="1">纵坐标大类</td>
+    <td>纵坐标小类1</td>
+    <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
+    </tr>
+    <tr>
+<caption>
+    <td>纵坐标小类2</td>
+    <td> 描述 <a href="链接" target="_blank">链接文字</a> or <a href="链接" target="_blank">链接文字</a>. </td>
+    </tr>
+     <tr>
+<caption>
+    <td>纵坐标小类3</td>
     <td>描述 <a href="链接" target="_blank">链接文字</a>.</td>
     </tr>
      <tr>
