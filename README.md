@@ -531,13 +531,13 @@
     <th rowspan="4">Early fusion</th>
     <th>Res2-Unet[<a href="https://doi.org/10.1109/JSTARS.2022.3146430" target="_blank">paper</a>]</th>
     <th>Res2-Unet, a new deep architecture for building detection from high spatial resolution images</th>
-    <th>CVIU2019</th>
+    <th>JSTARS2022</th>
     <th> <a href="https://github.com/yubozuzu123/res2-unet" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>FC-EF-Res[<a href="https://doi.org/10.1016/j.cviu.2019.07.003" target="_blank">paper</a>]</th>
     <th>Multitask learning for large-scale semantic change detection</th>
-    <th></th>
+    <th>CVIU2019</th>
     <th> <a href="https://github.com/rcdaudt/fully_convolutional_change_detection" target="_blank">link</a></th>
     </tr>
      <tr>
