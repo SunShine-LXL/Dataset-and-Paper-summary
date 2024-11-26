@@ -657,23 +657,24 @@
 ## Transformer-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|
-|**BiFA**|**Bifa: Remote sensing image change detection with bitemporal feature alignment**|TGRS2024|[BiFA](https://doi.org/10.1109/TGRS.2024.3376673)|[link](https://github.com/zmoka-zht/BiFA)|
-|**CDMamba**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|ArXiv2024|[CDMamba](https://doi.org/10.48550/arXiv.2406.04207)|[link](https://github.com/zmoka-zht/CDMamba)|
-|**CDMask**|**Rethinking Remote Sensing Change Detection With A Mask View**|ArXiv2024|[CDMask](https://doi.org/10.48550/arXiv.2406.15320)|[link](https://github.com/xwmaxwma/rschange)|
-|**Changemamba**|**Changemamba: Remote sensing change detection with spatio-temporal state space model**|ArXiv2024|[Changemamba](https://doi.org/10.48550/arXiv.2404.03425)|[link](https://github.com/ChenHongruixuan/MambaCD)|
-|**MaskCD**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|ArXiv2024|[MaskCD](https://doi.org/10.48550/arXiv.2404.12081)|[link](https://github.com/AI4RS/MaskCD)|
-|**M-CD**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|ArXiv2024|[M-CD](https://doi.org/10.48550/arXiv.2407.06839)|[link](https://github.com/JayParanjape/M-CD)|
-|**SBA-PN**|**Siamese Bi-Attention Pooling Network for Change Detection in Remote Sensing**|JSTARS2024|[SBA-PN](https://doi.org/10.1109/JSTARS.2024.3373753)|**_**|
-|**ScratchFormer**|**Remote sensing change detection with transformers trained from scratch**|TGRS2024|[ScratchFormer](https://doi.org/10.1109/TGRS.2024.3383800)|[link](https://github.com/mustansarfiaz/ScratchFormer)|
-|**MDAFormer**|**MDAFormer: Multi-level difference aggregation transformer for change detection of VHR optical imagery**|JAG2023|[MDAFormer](https://doi.org/10.1016/j.jag.2023.103256)|**_**|
-|**TransY-Net**|**TransY-Net: Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|TGRS2023|[TransY-Net](https://doi.org/10.1109/TGRS.2023.3327253)|[link](https://github.com/Drchip61/TransYNet)|
-|**ChangeFormer**|**A transformer-based siamese network for change detection**|IGARSS2022|[ChangeFormer](https://doi.org/10.1109/IGARSS46834.2022.9883686)|[link](https://github.com/wgcban/ChangeFormer)|
-|**FTN**|**Fully transformer network for change detection of remote sensing images**|ACVV2022|[FTN](https://openaccess.thecvf.com/content/ACCV2022/html/Yan_Fully_Transformer_Network_for_Change_Detection_of_Remote_Sensing_Images_ACCV_2022_paper.html)|[link](https://github.com/AI-Zhpp/FTN)|
-|**Pyramid-SCDFormer**|**A transformer-based Siamese network and an open optical dataset for semantic change detection of remote sensing images**|JDE2022|[Pyramid-SCDFormer](https://doi.org/10.1080/17538947.2022.2111470)|**_**|
-|**SST-Former**|**Spectral–spatial–temporal transformers for hyperspectral image change detection**|TGRS2022|[SST-Former](https://doi.org/10.1109/TGRS.2022.3203075)|[link](https://github.com/yanhengwang-heu/IEEE_TGRS_SSTFormer)|
-|**SwinSUNet**|**SwinSUNet: Pure transformer network for remote sensing image change detection**|TGRS2022|[SwinSUNet](https://doi.org/10.1109/TGRS.2022.3160007)|**_**|
-|**TMFF**|**Transformer-based multi-scale feature fusion network for remote sensing change detection**|JRS2022|[TMFF](https://doi.org/10.1117/1.JRS.16.046509)|**_**|
-|**TransUNetCD**|**TransUNetCD: A hybrid transformer network for change detection in optical remote-sensing images.**|TGRS2022|[TransUNetCD](https://doi.org/10.1109/TGRS.2022.3169479)|**_**|
+|**BiFA[[paper](https://doi.org/10.1109/TGRS.2024.3376673)]**|**Bifa: Remote sensing image change detection with bitemporal feature alignment**|**TGRS2024**|**[link](https://github.com/zmoka-zht/BiFA)**|
+|**CDMamba[[paper](https://doi.org/10.48550/arXiv.2406.04207)]**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|**ArXiv2024**|**[link](https://github.com/zmoka-zht/CDMamba)**|
+|**CDMask[[paper](https://doi.org/10.48550/arXiv.2406.15320)]**|**Rethinking Remote Sensing Change Detection With A Mask View**|**ArXiv2024**|**[link](https://github.com/xwmaxwma/rschange)**|
+|**Changemamba[[paper](https://doi.org/10.48550/arXiv.2404.03425)]**|**Changemamba: Remote sensing change detection with spatio-temporal state space model**|**ArXiv2024**|**[link](https://github.com/ChenHongruixuan/MambaCD)**|
+|**MaskCD[[paper](https://doi.org/10.48550/arXiv.2404.12081)]**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|**ArXiv2024**|**[link](https://github.com/AI4RS/MaskCD)**|
+|**M-CD[[paper](https://doi.org/10.48550/arXiv.2407.06839)]**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|**ArXiv2024**|**[link](https://github.com/JayParanjape/M-CD)**|
+|**SBA-PN[[paper](https://doi.org/10.1109/JSTARS.2024.3373753)]**|**Siamese Bi-Attention Pooling Network for Change Detection in Remote Sensing**|**JSTARS2024**|**_**|
+|**ScratchFormer[[paper](https://doi.org/10.1109/TGRS.2024.3383800)]**|**Remote sensing change detection with transformers trained from scratch**|**TGRS2024**|**[link](https://github.com/mustansarfiaz/ScratchFormer)**|
+|**MDAFormer[[paper](https://doi.org/10.1016/j.jag.2023.103256)]**|**MDAFormer: Multi-level difference aggregation transformer for change detection of VHR optical imagery**|**JAG2023**|**_**|
+|**TransY-Net[[paper](https://doi.org/10.1109/TGRS.2023.3327253)]**|**TransY-Net: Learning Fully Transformer Networks for Change Detection of Remote Sensing Images**|**TGRS2023**|**[link](https://github.com/Drchip61/TransYNet)**|
+
+|**ChangeFormer[[paper](https://doi.org/10.1109/IGARSS46834.2022.9883686)]**|**A transformer-based siamese network for change detection**|**IGARSS2022**|**[link](https://github.com/wgcban/ChangeFormer)**|
+|**FTN[[paper](https://openaccess.thecvf.com/content/ACCV2022/html/Yan_Fully_Transformer_Network_for_Change_Detection_of_Remote_Sensing_Images_ACCV_2022_paper.html)]**|**Fully transformer network for change detection of remote sensing images**|**ACVV2022**|**[link](https://github.com/AI-Zhpp/FTN)**|
+|**Pyramid-SCDFormer[[paper](https://doi.org/10.1080/17538947.2022.2111470)]**|**A transformer-based Siamese network and an open optical dataset for semantic change detection of remote sensing images**|**JDE2022**|**_**|
+|**SST-Former[[paper](https://doi.org/10.1109/TGRS.2022.3203075)]**|**Spectral–spatial–temporal transformers for hyperspectral image change detection**|**TGRS2022**|**[link](https://github.com/yanhengwang-heu/IEEE_TGRS_SSTFormer)**|
+|**SwinSUNet[[paper](https://doi.org/10.1109/TGRS.2022.3160007)]**|**SwinSUNet: Pure transformer network for remote sensing image change detection**|**TGRS2022**|**_**|
+|**TMFF[[paper](https://doi.org/10.1117/1.JRS.16.046509)]**|**Transformer-based multi-scale feature fusion network for remote sensing change detection**|**JRS2022**|**_**|
+|**TransUNetCD[[paper](https://doi.org/10.1109/TGRS.2022.3169479)]**|**TransUNetCD: A hybrid transformer network for change detection in optical remote-sensing images.**|**TGRS2022**|**_**|
 
 
 ## CNN-Transformer hybrid-based IB-DLCD methods
