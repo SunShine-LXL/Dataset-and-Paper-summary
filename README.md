@@ -932,6 +932,19 @@
     <th> <a href="https://github.com/justchenhao/IAug_CDNet" target="_blank">link</a></th>
     </tr>
      <tr>
+    <th rowspan="2" and colspan ="2">Active learning</th>
+    <th>DALCD[<a href="https://doi.org/10.48550/arXiv.2008.11201" target="_blank">paper</a>]</th>
+    <th>Deep active learning in remote sensing for data efficient change detection</th>
+    <th>ArXiv2020</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>CFSS-CD[<a href="https://doi.org/10.1109/TGRS.2018.2802785" target="_blank">paper</a>]</th>
+    <th>A coarse-to-fine semi-supervised change detection for multispectral images</th>
+    <th>TGRS2018</th>
+    <th>-</th>
+    </tr>
+     <tr>
     <th rowspan="9">Weakly-supervised</th>
     <th rowspan="1">Point-level labels</th>    
      <th>CARGNet[<a href="https://doi.org/10.1109/TGRS.2023.3348459" target="_blank">paper</a>]</th>
@@ -988,19 +1001,6 @@
     <th>RFWSCD[<a href="https://doi.org/10.1109/IGARSS47720.2021.9553768" target="_blank">paper</a>]</th>
     <th>Weakly supervised semantic change detection via label refinement framework</th>
     <th>IGARSS2021</th>
-    <th>-</th>
-    </tr>
-     <tr>
-    <th rowspan="2" and colspan ="2">Active learning</th>
-    <th>DALCD[<a href="https://doi.org/10.48550/arXiv.2008.11201" target="_blank">paper</a>]</th>
-    <th>Deep active learning in remote sensing for data efficient change detection</th>
-    <th>ArXiv2020</th>
-    <th>-</th>
-    </tr>
-     <tr>
-    <th>CFSS-CD[<a href="https://doi.org/10.1109/TGRS.2018.2802785" target="_blank">paper</a>]</th>
-    <th>A coarse-to-fine semi-supervised change detection for multispectral images</th>
-    <th>TGRS2018</th>
     <th>-</th>
     </tr>
      <tr>
