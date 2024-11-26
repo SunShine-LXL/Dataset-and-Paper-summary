@@ -677,6 +677,169 @@
 
 
 ## CNN-Transformer hybrid-based IB-DLCD methods
+<table>
+<caption>
+	<tr>
+	    <th>Category</th>
+	    <th>Abbreviation</th>
+            <th>Title</th>	
+	    <th>Publication</th>	
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="5">Sequential integration</th>
+    <th>GCFormer[<a href="https://doi.org/10.1109/TGRS.2024.3381738" target="_blank">paper</a>]</th>
+    <th>GCFormer: Global Context-aware Transformer for Remote Sensing Image Change Detection</th>
+    <th>TGRS2024</th>
+    <th> <a href="https://github.com/yuwanting828/GCFormer" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>MSCANet[<a href="https://doi.org/10.1109/JSTARS.2022.3177235" target="_blank">paper</a>]</th>
+    <th>A CNN-transformer network with multiscale context aggregation for fine-grained cropland change detection</th>
+    <th>JSTARS2022</th>
+    <th> <a href="https://github.com/liumency/CropLand-CD" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>UVACD[<a href="https://doi.org/10.3390/rs14092228" target="_blank">paper</a>]</th>
+    <th>A network combining a transformer and a convolutional neural network for remote sensing image change detection</th>
+    <th>RS2022</th>
+    <th>-</th>
+    </tr>
+     <tr>     
+    <th>BIT[<a href="https://doi.org/10.1109/TGRS.2021.3095166" target="_blank">paper</a>]</th>
+    <th>Remote sensing image change detection with transformers</th>
+    <th>TGRS2021</th>
+    <th> <a href="https://github.com/justchenhao/BIT_CD" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>MTCNet[<a href="https://doi.org/10.1109/JSTARS.2022.3198517" target="_blank">paper</a>]</th>
+    <th>A CBAM based multiscale transformer fusion approach for remote sensing image change detection</th>
+    <th>TGRS2021</th>
+    <th>-</th>
+    </tr>
+     <tr>	     
+<caption>
+    <tr>
+    <th rowspan="2">Multi-path CNN integration</th>
+    <th>SCanNet[<a href="https://doi.org/10.1109/TGRS.2024.3362795" target="_blank">paper</a>]</th>
+    <th>Joint spatio-temporal modeling for semantic change detection in remote sensing images</th>
+    <th>TGRS2024</th>
+    <th> <a href="https://github.com/DingLei14/SCanNet" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>DMATNet[<a href="https://doi.org/10.1109/TGRS.2022.3209972" target="_blank">paper</a>]</th>
+    <th>Multi-path CNN integration**|**Remote sensing image change detection transformer network based on dual-feature mixed attention</th>
+    <th>TGRS2022</th>
+    <th>-</th>
+    </tr>
+     <tr>     
+<caption>
+    <tr>
+    <th rowspan="3">Parallel integration</th>
+    <th>WNet[<a href="https://doi.org/10.1109/TGRS.2023.3296383" target="_blank">paper</a>]</th>
+    <th>Wnet: W-shaped hierarchical network for remote sensing image change detection</th>
+    <th>TGRS2023</th>
+    <th> <a href="https://github.com/TangXu-Group/Remote-Sensing-Image-Change-Detection/tree/main/WNet" target="_blank">link</a></th>
+    </tr>
+     <tr>     
+    <th>ACABFNet[<a href="https://doi.org/10.1109/JSTARS.2022.3224081" target="_blank">paper</a>]</th>
+    <th>Axial cross attention meets CNN: Bibranch fusion network for change detection</th>
+    <th>JSTARS2022</th>
+    <th> <a href="https://github.com/SONGLEI-arch/ACABFNet" target="_blank">link</a></th>
+    </tr>
+     <tr>	     
+    <th>ICIF-Net[<a href="https://doi.org/10.1109/TGRS.2022.3168331" target="_blank">paper</a>]</th>
+    <th>ICIF-Net: Intra-scale cross-interaction and inter-scale feature fusion network for bitemporal remote sensing images change detection</th>
+    <th>TGRS2022</th>
+    <th> <a href="https://github.com/ZhengJianwei2/ICIF-Net" target="_blank">link</a></th>
+    </tr>
+     <tr>
+<caption>
+    <tr>
+    <th rowspan="7">Unilateral mixing</th>
+    <th>ConvTransNet[<a href="https://doi.org/10.1109/TGRS.2023.3272694" target="_blank">paper</a>]</th>
+    <th>ConvTransNet: A CNN-Transformer Network for Change Detection with Multi-Scale Global-Local Representations</th>
+    <th>TGRS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>CTD-Former[<a href="https://doi.org/10.1109/TGRS.2023.3281711" target="_blank">paper</a>]</th>
+    <th>Relation Changes Matter: Cross-Temporal Difference Transformer for Change Detection in Remote Sensing Images</th>
+    <th>TGRS2023</th>
+    <th> <a href="https://github.com/RSMagneto/CTD-Former" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>DAHT-Net[<a href="https://doi.org/10.1109/ACCESS.2023.3307642" target="_blank">paper</a>]</th>
+    <th>DAHT-Net: Deformable Attention-Guided Hierarchical Transformer Network Based on Remote Sensing Image Change Detection</th>
+    <th>ACCESS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>GateFormer[<a href="https://doi.org/10.1109/JSTARS.2023.3335281" target="_blank">paper</a>]</th>
+    <th>GateFormer: Gate Attention UNet With Transformer for Change Detection of Remote Sensing Images</th>
+    <th>JSTARS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>GeoFormer[<a href="https://doi.org/10.1109/TGRS.2023.3331751" target="_blank">paper</a>]</th>
+    <th>GeoFormer: A Geometric Representation Transformer for Change Detection</th>
+    <th>TGRS2023</th>
+    <th> <a href="https://github.com/Jiaxzhao/GeoFormer" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>SMNet[<a href="https://doi.org/10.3390/rs15040949" target="_blank">paper</a>]</th>
+    <th>SMNet: symmetric multi-task network for semantic change detection in remote sensing images based on CNN and transformer</th>
+    <th>RS2023</th>
+    <th>-</th>
+    </tr>
+     <tr> 
+    <th>SUT[<a href="https://doi.org/10.3390/rs15225383" target="_blank">paper</a>]</th>
+    <th>A Full-Scale Connected CNN–Transformer Network for Remote Sensing Image Change Detection</th>
+    <th>RS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>
+<caption>
+    <tr>
+    <th rowspan="4">Bilateral mixing</th>
+    <th>ACAHNet[<a href="https://doi.org/10.1109/TGRS.2023.3245674" target="_blank">paper</a>]</th>
+    <th>Asymmetric cross-attention hierarchical network based on CNN and transformer for bitemporal remote sensing images change detection</th>
+    <th>TGRS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>     
+    <th>DMMSTNet[<a href="https://doi.org/10.3390/rs15030842" target="_blank">paper</a>]</th>
+    <th>Remote Sensing Image Change Detection Based on Deep Multi-Scale Multi-Attention Siamese Transformer Network</th>
+    <th>RS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>TChange[<a href="https://doi.org/10.3390/rs15051219" target="_blank">paper</a>]</th>
+    <th>TChange: A Hybrid Transformer-CNN Change Detection Network</th>
+    <th>RS2023</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <th>H-TransCD[<a href="https://doi.org/10.3390/ijgi11040263" target="_blank">paper</a>]</th>
+    <th>Hybrid-transcd: A hybrid transformer remote sensing image change detection network via token aggregation</th>
+    <th>JPRS2022</th>
+    <th>-</th>
+    </tr>
+     <tr>
+    <table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 |Abbreviation|Category|Title|Publication|Paper|Website|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**GCFormer**|**Sequential integration**|**GCFormer: Global Context-aware Transformer for Remote Sensing Image Change Detection**|TGRS2024|[GCFormer](https://doi.org/10.1109/TGRS.2024.3381738)|[link](https://github.com/yuwanting828/GCFormer)|
