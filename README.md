@@ -718,8 +718,6 @@
     <th>-</th>
     </tr>
      <tr>	     
-<caption>
-    <tr>
     <th rowspan="2">Multi-path CNN integration</th>
     <th>SCanNet[<a href="https://doi.org/10.1109/TGRS.2024.3362795" target="_blank">paper</a>]</th>
     <th>Joint spatio-temporal modeling for semantic change detection in remote sensing images</th>
