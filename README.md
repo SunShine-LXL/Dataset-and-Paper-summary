@@ -733,8 +733,6 @@
     <th>-</th>
     </tr>
      <tr>     
-<caption>
-    <tr>
     <th rowspan="3">Parallel integration</th>
     <th>WNet[<a href="https://doi.org/10.1109/TGRS.2023.3296383" target="_blank">paper</a>]</th>
     <th>Wnet: W-shaped hierarchical network for remote sensing image change detection</th>
@@ -754,8 +752,6 @@
     <th> <a href="https://github.com/ZhengJianwei2/ICIF-Net" target="_blank">link</a></th>
     </tr>
      <tr>
-<caption>
-    <tr>
     <th rowspan="7">Unilateral mixing</th>
     <th>ConvTransNet[<a href="https://doi.org/10.1109/TGRS.2023.3272694" target="_blank">paper</a>]</th>
     <th>ConvTransNet: A CNN-Transformer Network for Change Detection with Multi-Scale Global-Local Representations</th>
@@ -799,8 +795,6 @@
     <th>-</th>
     </tr>
      <tr>
-<caption>
-    <tr>
     <th rowspan="4">Bilateral mixing</th>
     <th>ACAHNet[<a href="https://doi.org/10.1109/TGRS.2023.3245674" target="_blank">paper</a>]</th>
     <th>Asymmetric cross-attention hierarchical network based on CNN and transformer for bitemporal remote sensing images change detection</th>
