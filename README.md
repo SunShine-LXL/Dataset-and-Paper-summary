@@ -947,6 +947,8 @@
     <th>-</th>
     </tr>
      <tr>
+<caption>
+    <tr>
     <th rowspan="9">Weakly-supervised</th>
     <th rowspan="1">Point-level labels</th>    
      <th>CARGNet[<a href="https://doi.org/10.1109/TGRS.2023.3348459" target="_blank">paper</a>]</th>
