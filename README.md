@@ -932,6 +932,8 @@
     <th> <a href="https://github.com/justchenhao/IAug_CDNet" target="_blank">link</a></th>
     </tr>
      <tr>
+<caption>
+    <tr>
     <th rowspan="2" and colspan ="2">Active learning</th>
     <th>DALCD[<a href="https://doi.org/10.48550/arXiv.2008.11201" target="_blank">paper</a>]</th>
     <th>Deep active learning in remote sensing for data efficient change detection</th>
