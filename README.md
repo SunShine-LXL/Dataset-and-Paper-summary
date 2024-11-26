@@ -640,19 +640,19 @@
 |Abbreviation|Title|Publication|Website|
 |:---:|:---:|:---:|:---:|
 |**A2Net[[paper](https://doi.org/10.1109/TGRS.2023.3241436)]**|**Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention**|**TGRS2023**|**[link](https://github.com/guanyuezhen/A2Net)**|
-|**DMINet**|**Change detection on remote sensing images using dual-branch multilevel intertemporal network**|TGRS2023|[DMINet](https://doi.org/10.1109/TGRS.2023.3241257)|[link](https://github.com/ZhengJianwei2/DMINet)|
-|**GAS-Net**|**Global-aware siamese network for change detection on remote sensing images**|JPRS2023|[GAS-Net](https://doi.org/10.1016/j.isprsjprs.2023.04.001)|[link](https://github.com/xiaoxiangAQ/GAS-Net)|
-|**USSFC-Net**|**Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images**|TGRS2023|[USSFC-Net](https://doi.org/10.1109/TGRS.2023.3261273)|[link](https://github.com/SUST-reynole/USSFC-Net)|
-|**SNAFF**|**High‐resolution optical remote sensing image change detection based on dense connection and attention feature fusion network**|PHOR2023|[SNAFF](https://doi.org/10.1111/phor.12462)|**_**|
-|**DMSANet**|**Building Change Detection in Remote Sensing Images Based on Dual Multi-Scale Attention**|RS2022|[DMSANet](https://doi.org/10.3390/rs14215405)|**_**|
-|**ISNet**|**ISNet: Towards Improving Separability for Remote Sensing Image Change Detection**|TGRS2022|[ISNet](https://doi.org/10.1109/TGRS.2022.3174276)|[link](https://github.com/xingronaldo/ISNet)|
-|**AGCDetNet**|**AGCDetNet: An attention-guided network for building change detection in high-resolution remote sensing images**|JSTARS2021|[AGCDetNet](https://doi.org/10.1109/JSTARS.2021.3077545)|**_**|
-|**ADS-Net**|**ADS-Net: An Attention-Based deeply supervised network for remote sensing image change detection**|JAG2021|[ADS-Net](https://doi.org/10.1016/j.jag.2021.102348)|**_**|
-|**SSA-SiamNet**|**SSA-SiamNet: Spectral–spatial-wise attention-based Siamese network for hyperspectral image change detection**|TGRS2021|[SSA-SiamNet](https://doi.org/10.1109/TGRS.2021.3095899)|**_**|
-|**MSPSNet**|**Deep Multiscale Siamese Network With Parallel Convolutional Structure and Self-Attention for Change Detection**|TGRS2021|[MSPSNet]( https://doi.org/10.1109/TGRS.2021.3131993)|**_**|
-|**DTCDSCN**|**Building change detection for remote sensing images using a dual-task constrained deep siamese convolutional network model**|GRSL2020|[DTCDSCN](https://doi.org/10.1109/LGRS.2020.2988032)|[link](https://github.com/fitzpchao/DTCDSCN)|
-|**IFN**|**A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images**|JPRS2020|[IFN](https://doi.org/10.1016/j.isprsjprs.2020.06.003)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images)|
-|**STANet**|**A spatial-temporal attention-based method and a new dataset for remote sensing image change detection**|RS2020|[STANet](https://doi.org/10.3390/rs12101662)|[link](https://github.com/justchenhao/STANet)|
+|**DMINet[[paper](https://doi.org/10.1109/TGRS.2023.3241257)]**|**Change detection on remote sensing images using dual-branch multilevel intertemporal network**|**TGRS2023**|**[link](https://github.com/ZhengJianwei2/DMINet)**|
+|**GAS-Net[[paper](https://doi.org/10.1016/j.isprsjprs.2023.04.001)]**|**Global-aware siamese network for change detection on remote sensing images**|**JPRS2023**|**[link](https://github.com/xiaoxiangAQ/GAS-Net)**|
+|**USSFC-Net[[paper](https://doi.org/10.1109/TGRS.2023.3261273)]**|**Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images**|**TGRS2023**|**[link](https://github.com/SUST-reynole/USSFC-Net)**|
+|**SNAFF[[paper](https://doi.org/10.1111/phor.12462)]**|**High‐resolution optical remote sensing image change detection based on dense connection and attention feature fusion network**|**PHOR2023**|**_**|
+|**DMSANet[[paper](https://doi.org/10.3390/rs14215405)]**|**Building Change Detection in Remote Sensing Images Based on Dual Multi-Scale Attention**|**RS2022**|**_**|
+|**ISNet[[paper](https://doi.org/10.1109/TGRS.2022.3174276)]**|**ISNet: Towards Improving Separability for Remote Sensing Image Change Detection**|**TGRS2022**|**[link](https://github.com/xingronaldo/ISNet)**|
+|**AGCDetNet[[paper](https://doi.org/10.1109/JSTARS.2021.3077545)]**|**AGCDetNet: An attention-guided network for building change detection in high-resolution remote sensing images**|**JSTARS2021**|**_**|
+|**ADS-Net[[paper](https://doi.org/10.1016/j.jag.2021.102348)]**|**ADS-Net: An Attention-Based deeply supervised network for remote sensing image change detection**|**JAG2021**|**_**|
+|**SSA-SiamNet[[paper](https://doi.org/10.1109/TGRS.2021.3095899)]**|**SSA-SiamNet: Spectral–spatial-wise attention-based Siamese network for hyperspectral image change detection**|**TGRS2021**|**_**|
+|**MSPSNet[[paper]( https://doi.org/10.1109/TGRS.2021.3131993)]**|**Deep Multiscale Siamese Network With Parallel Convolutional Structure and Self-Attention for Change Detection**|**TGRS2021**|**_**|
+|**DTCDSCN[[paper](https://doi.org/10.1109/LGRS.2020.2988032)]**|**Building change detection for remote sensing images using a dual-task constrained deep siamese convolutional network model**|**GRSL2020**||**[link](https://github.com/fitzpchao/DTCDSCN)**|
+|**IFN[[paper](https://doi.org/10.1016/j.isprsjprs.2020.06.003)]**|**A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images**|**JPRS2020**|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images)|
+|**STANet[[paper](https://doi.org/10.3390/rs12101662)]**|**A spatial-temporal attention-based method and a new dataset for remote sensing image change detection**|**RS2020**|**[link](https://github.com/justchenhao/STANet)**|
 
 ## Transformer-based IB-DLCD methods
 |Abbreviation|Title|Publication|Paper|Website|
