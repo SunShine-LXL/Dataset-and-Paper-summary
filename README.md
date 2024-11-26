@@ -821,6 +821,237 @@
     <table>
 
 ## Semi-supervised label efficient learning IB-DLCD method
+<table>
+<caption>
+	<tr>
+	    <th>Method</th>
+	    <th>Category</th>
+	    <th>Abbreviation</th>
+            <th>Title</th>	
+	    <th>Publication</th>	
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="16">Semi-supervised</th>
+    <th rowspan="2">Adversarial learning</th>    
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+
+
+    <th rowspan="5">Consistency constraints</th>    
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+     
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+     
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+     
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+     
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+
+
+
+
+    <th rowspan="9">Pseudo-label learning</th>    
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+
+
+<caption>
+    <tr>
+    <th rowspan="2" column="2">Active learning</th>
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+
+
+    <th rowspan="9">Weakly-supervised</th>
+    <th rowspan="1">Point-level labels</th>    
+     <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th rowspan="2">Patch-level labels</th>    
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+     
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+
+
+    <th rowspan="5">Image-level labels</th>    
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+
+
+
+    <th rowspan="1">Low-resolution labels</th>    
+    <th>[<a href="" target="_blank">paper</a>]</th>
+    <th></th>
+    <th></th>
+    <th> <a href="" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <table>
+
+
+
+
+
 
 
 
