@@ -840,7 +840,6 @@
     <th>-</th>
     </tr>
      <tr>
-
     <th>GDCN[<a href="https://doi.org/10.1109/JSTARS.2018.2887108" target="_blank">paper</a>]</th>
     <th>Adversarial learning**|**A generative discriminatory classified network for change detection in multispectral imagery</th>
     <th>JSTARS2019</th>
@@ -860,7 +859,6 @@
     <th> <a href="https://github.com/zxt9/FPA-SSCD" target="_blank">link</a></th>
     </tr>
      <tr>
-     
     <th>Semi-LCD[<a href="https://doi.org/10.1080/15481603.2023.2257980" target="_blank">paper</a>]</th>
     <th>Consistency-guided lightweight network for semi-supervised binary change detection of buildings in remote sensing images</th>
     <th>GRS2023</th>
