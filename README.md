@@ -262,7 +262,7 @@
 	    <th>Website</th>
 	</tr>
     <tr>
-    <th rowspan="3">flood</th>
+    <th rowspan="3">Flood</th>
     <th rowspan="2">Opt-SAR</th>
     <th>CAU-Flood dataset[<a href="https://doi.org/10.1016/j.jag.2023.103197" target="_blank">paper</a>]</th>
     <th>2023</th>
