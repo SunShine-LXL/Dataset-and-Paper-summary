@@ -248,7 +248,7 @@
      <tr>
     <table>
 
-## BCD contest dataset for SAR remote sensing images
+## BCD datasets of SAR remote sensing images
 <table>
 <caption>
 	<tr>
