@@ -249,7 +249,28 @@
     <table>
 
 ## BCD contest dataset for SAR remote sensing images
-
+<table>
+<caption>
+	<tr>
+	    <th>Target of interest</th>
+	    <th>Datasets</th>
+            <th>Year</th>	
+	    <th>Image Pairs</th>
+	    <th>Image size</th>	
+	    <th>Resolution</th>
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="1">Flood</th>
+    <th>UrbanSARFloods [<a href="https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Zhao_UrbanSARFloods_Sentinel-1_SLC-Based_Benchmark_Dataset_for_Urban_and_Open-Area_Flood_CVPRW_2024_paper.html" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>8879</th>
+    <th>512×512</th>
+    <th>20m</th>
+    <th> <a href="https://github.com/jie666-6/UrbanSARFloods" target="_blank">link</a></th>
+    </tr>
+    <tr>
+<table>
 
 ## BCD datasets of multi-modal remote sensing images
 <table>
@@ -285,7 +306,7 @@
      <tr>
     <th>Ombria dataset[<a href="https://ieeexplore.ieee.org/document/9723593" target="_blank">paper</a>]</th>
     <th>2022</th>
-    <th>844</th>
+    <th>1688</th>
     <th>256×256</th>
     <th>10m</th>
     <th><a href="https://github.com/geodrak/OMBRIA" target="_blank">link</a></th>
