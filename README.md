@@ -309,7 +309,18 @@
     <th><a href="https://github.com/whudk/EVLab-CMCD" target="_blank">link</a></th>
     </tr>
      <tr>
-    <th rowspan="1">Building</th>
+<caption>
+    <tr>
+    <th rowspan="2">Building</th>
+    <th rowspan="1">Opt-SAR</th>
+    <th>BRIGHT[<a href="https://doi.org/10.48550/arXiv.2501.06019" target="_blank">paper</a>]</td>
+    <th>2025</th>
+    <th>4538</th>
+    <th>1024×1024</th>
+    <th>0.3-1m</th>
+    <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
+    </tr>
+     <tr>
     <th rowspan="1">Opt-DSM</th>
     <th>Hi-BCD[<a href="https://doi.org/10.1016/j.inffus.2024.102358" target="_blank">paper</a>]</td>
     <th>2023</th>
